@@ -15,7 +15,7 @@ Produce a lore-faithful, playable adaptation of the StarCraft universe for Savag
 7. **Fast, Furious, Fun.** Avoid elaborate damage, ammunition, technology, and evolution simulation unless play requires it. Use SWADE Dramatic Tasks, Quick Encounters, Chases, Clashes, and Mass Battles where suitable.
 8. **Lore research is auditable.** Distinguish explicit canon, in-universe belief, reasonable extrapolation, estimated scale, fan assertion, and original adaptation choices. Document source/claim provenance.
 9. **Player-facing flexibility.** Allow military, frontier, exploration, espionage, mercenary, Protoss-focused, horror, and other viable campaigns; do not assume one permanent party or one era.
-10. **Playtest before cataloguing everything.** Complete a small end-to-end demonstration, then expand verified mechanics across the universe.
+10. **Assemble a coherent playtest set before final balancing.** Provisionally accept plausible stat blocks and build the interacting equipment, character options, creatures and vehicle profiles needed for a meaningful StarCraft playtest. Do not require isolated playtests or final approval of every firearm before proceeding. Test multiple connected subsystems together and revise as a group. This is **not** a demand to exhaustively catalogue every named unit before the first game.
 
 ## Construction layers
 - **Character capabilities:** ancestry, skills, Edges, Hindrances, psionics, cybernetics and backgrounds.
@@ -39,7 +39,7 @@ Test at least these interactions before broad equipment release:
 - Fantasy, Horror, and Super Powers Companions: optional targeted references only when justified by a specific requirement; not blanket imports.
 
 ## Approval gates
-A mechanic is not complete unless it has (a) cited fictional behavior, (b) clearly specified SWADE implementation, (c) comparison to SWADE precedents, (d) clear threat/scale assumptions, and (e) at least a documented test or review appropriate to its impact.
+A mechanic may enter the **provisional `playtest` baseline** when it has (a) source-grounded fictional behavior, (b) a specified SWADE implementation, (c) a published-rules comparison and (d) clear threat/scale and unresolved assumptions. This is **not final approval**. Promotion to `approved` requires (e) documented integrated playtest/review with the complete interacting packet, recorded revisions and a decision.
 
 ## Scope not yet decided
 Exact campaign start era, mixed Terran/Protoss PC balance, playable Zerg variants, method for shields, psionics, combined-arms threat scaling, and starship-combat granularity remain explicit design questions. No decision is implied merely by listing a possible subsystem.

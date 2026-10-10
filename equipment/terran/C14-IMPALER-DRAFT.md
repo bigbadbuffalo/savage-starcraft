@@ -1,6 +1,6 @@
 # C-14 “Impaler” Gauss Rifle — Equipment Prototype
 
-**Status:** `draft` — **not approved**; first Monte Carlo benchmark complete, no session playtest.  
+**Status:** **`playtest` — provisionally accepted as the working C-14 baseline by the owner (2026-10-10)**. **Not final/`approved`**, and no tabletop session playtest has yet been run. The prior Monte Carlo diagnostic is only a mathematical benchmark.  
 **Date:** 2026-10-10.  
 **Fictional evidence:** `lore/entries/terran/c14-impaler.md`; original *StarCraft* instruction manual, printed p. **35**.  
 **Mechanical evidence:** SWADE Core pp. 66, 75, 93, 105; *Science Fiction Companion* pp. **45, 47, 57, 93, 125**.  
@@ -43,3 +43,6 @@ Published SFC slugthrower AP ammunition is **–2 ordinary damage, +4 AP** (p.56
 2. Run tabletop positioning and Benny/Soak tests, including multiple independently wounding RoF hits and suit Critical Hits.
 3. Decide Range, Shots, 3RB, weight/Min Str before marking this item `approved`.
 4. Compare Raynor's HEV/commando penetrator separately; **not** a generic C-14 upgrade.
+
+## Provisional acceptance and stop rule
+The owner has accepted the current first-pass figures as **plausible enough to use**. Preserve **30/60/120, 2d10/AP4/RoF3/Heavy Weapon/Class I, Shots100, MinStr d10 and Weight20 lb** as the default reference **until cross-system evidence shows a problem**. Keep **3RB** as a flagged provisional firing mode, not a mandatory finalized feature. Don't hold up development awaiting confirmation of speculative magazine size, mass, range or cyclic burst count; those remain labeled working placeholders. Revisit after building the integrated ground-play packet, not via isolated one-item playtest gates. See `../../development/INTEGRATED-PLAYTEST-PACKET.md`.

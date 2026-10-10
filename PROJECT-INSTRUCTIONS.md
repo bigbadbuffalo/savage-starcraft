@@ -19,7 +19,7 @@ Create an original, usable SWADE setting toolbox for the StarCraft universe. Pri
 5. Reuse SWADE core and applicable Companion rules before proposing any new subsystem. For substantial mechanical design, consult the live [SWADE for Foundry design principles](https://github.com/bigbadbuffalo/swade-foundry-workspace/blob/main/docs/SWADE_for_Foundry_Design_Principles.md) and [homebrew design framework](https://github.com/bigbadbuffalo/swade-foundry-workspace/blob/main/docs/process/SWADE_HOMEBREW_DESIGN.md) as **methodology**, following `development/CROSS-PROJECT-MECHANICS-POLICY.md`. Cite book + printed page in research notes; do not reproduce large excerpts.
 6. Identify the mechanic's natural home (character ability, equipment, ammunition/payload, mode, condition, hazard, vehicle system, or other existing SWADE category). Consider dependencies, resource costs, action economy, defensive interactions, counterplay, failure, and limits. If a novel rule remains necessary, explain why existing rules fail and estimate the gameplay cost.
 7. Compare a new NPC/creature against existing published examples; benchmark interactions at infantry, vehicle, and starship scales.
-8. Record resolution and tests in the decision log. Only then mark a rule or profile `approved`.
+8. Record resolution and tests in the decision log. **A coherent equipment profile can be accepted provisionally and marked `playtest` before any standalone tabletop test** when the fiction, SWADE precedent, assumptions and dependencies have been audited. Assemble a complete functional playtest packet first; conduct integrated scenario and regression tests before promoting individual statistics to `approved`.
 
 ## Source handling
 - A source's authority tier is not a claim's confidence or whether its narrator is reliable.
@@ -40,7 +40,9 @@ Create an original, usable SWADE setting toolbox for the StarCraft universe. Pri
 ## Status labels
 Research: `unresearched`, `collecting`, `disputed`, `reviewed`.
 Game design: `idea`, `draft`, `playtest`, `approved`, `superseded`.
+**`playtest` means provisionally accepted baseline, usable at the table and still subject to revision; it does not imply a playtest has already occurred.** Document whether a playtest actually ran separately.
 Do not equate a completed Markdown file with reviewed canonical or tested mechanical content.
+**Integrated packet plan:** `development/INTEGRATED-PLAYTEST-PACKET.md`. Design whole combat/ecology and character option sets before tuning single equipment entries.
 
 ## Repository hygiene
 No copyrighted PDFs, book scans, ripped art, or lengthy verbatim lore passages. Reference locally available SWADE books by title/page. Avoid invented source URLs, unit metrics, dates, page numbers, or citation locators. Mark unknowns honestly. Preserve user-authored measurements as historical working data, not verified canon. Do not invent an open-source license without project-owner approval.

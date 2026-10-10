@@ -1,7 +1,7 @@
 # Phase 2 — First Playtest Requirements v0.1
 
 **Working pilot:** *The Silent Colony*  
-**State:** Requirements specification, not a completed module or numerical rules set.  
+**State:** Requirements specification for one application of the broader **integrated playtest packet**. No longer a gate requiring every C-14/CMC stat to be tested before drafting other material.  
 **Design dependency:** `development/CAMPAIGN-FRAMEWORK.md`. Lore backing: `lore/research/SC98-MANUAL-AUDIT.md`. Mechanical method: `development/CROSS-PROJECT-MECHANICS-POLICY.md`.
 
 ## 1. Purpose
@@ -55,7 +55,7 @@ Test the smallest complete package that makes a Terran StarCraft adventure recog
 5. **Decision:** rescue survivors, recover research, destroy the nest, or complete an urgent evacuation—mutually competing objectives.
 6. **Extraction:** timed escape under pressure; test vehicles, Chases or Dramatic Tasks as needed.
 
-## 6. Scale test matrix — *before* approving weapon statistics
+## 6. Scale test matrix — *for integrated review before final weapon approval*
 | Attacker | Target | Expected fiction-level result to test |
 | --- | --- | --- |
 | Basic firearm | Unarmored human | Credible lethal threat |
@@ -85,13 +85,8 @@ For every scene note: player goal; actual actions; rules used; time/round count;
 - Zerg encounters differ based on context/coordination.
 - Any new rules required are documented, short and tested.
 
-## 10. Immediate next design task
-The research and test procedure is now established in [Terran Infantry Benchmark](benchmarks/TERRAN-INFANTRY-BENCHMARK.md). Build a **Terran infantry equipment benchmark**, not an entire arsenal:
-1. Human baseline and C-14 fictional design requirements.
-2. Stock SWADE gun/armor precedents.
-3. CMC armor protective behavior.
-4. Anti-armor reference threat.
-5. Three sample interactions and a short field test.
+## 10. Next design work after provisional C-14 and CMC acceptance
+Follow the **integrated packet plan** in [INTEGRATED-PLAYTEST-PACKET.md](INTEGRATED-PLAYTEST-PACKET.md), rather than requiring a new isolated C-14/CMC field test. The first Terran benchmark and computational comparisons are complete; develop the remaining weapons, suits, support systems, opposing species and representative vehicle threats to a coherent `playtest` level first.
 
 ## 11. Cross-project equipment compatibility gate
 The Foundry workspace maintains finalized sci-fi weapons in a separately balanced total-conversion ecosystem. **Do not mix** its Damage/AP/Range/weight/ammunition profiles and stock SWADE/Sci-Fi Companion gear without deciding and documenting a compatible StarCraft equipment baseline.
@@ -103,3 +98,6 @@ Use `development/benchmarks/CMC-ARMOR-STUDY.md` and `HEAVY-METAL-INTERFACE.md` w
 
 ## First quantitative equipment prototypes (2026-10-10)
 See `equipment/terran/C14-IMPALER-DRAFT.md`, `equipment/terran/CMC-POWER-ARMOR-DRAFT.md` and `development/benchmarks/HEAVY-METAL-INFANTRY-FIRE-TEST.md`. Simulation measures heavy class Wounds before Soak, not real session play or final PC death. First complete test must include at least one ordinary Marine Extra, one armored Marine Wild Card, one heavy shock trooper, live tactical Cover, RoF, 3RB, valid rifle mount, Bennies/Soak and suit Critical Hits. The biological opponent benchmark is deferred per owner.
+
+## Full-packet testing policy (2026-10-10)
+The owner accepts plausible C-14/CMC numbers provisionally and prefers a **full usable set** before balancing or encounter playtests. `equipment/terran/C14-IMPALER-DRAFT.md` and `CMC-POWER-ARMOR-DRAFT.md` now form an explicitly provisional baseline, **not a final adopted stat canon**. Keep the Silent Colony as a scenario in the eventual larger packet. Do not confuse an earlier Monte Carlo firing diagnostic with a tabletop session test.

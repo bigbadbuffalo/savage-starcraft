@@ -1,6 +1,6 @@
 # Terran Powered Infantry — CMC Family Draft
 
-**Status:** `draft` — fixed-Class **rule** approved; *these specific CMC profiles are not*.  
+**Status:** **`playtest` provisional** for **CMC-300/400 +10 Heavy/Class I; CMC-660 +14 Heavy/Class II; Marauder 5-4 +16 Heavy/Class II**, accepted as plausible first-pass profiles by the owner (2026-10-10). Fixed-Class **rule** is approved. **No specific suit model is final/`approved`**. Medic alternatives and specialized thermal/ordnance details are still research/draft.  
 **Date:** 2026-10-10.  
 **Lore:** `lore/entries/terran/powered-combat-suits.md`; original SC98 manual p.35; *Stealing Thunder* (later P2 source, mirrored text partially read).  
 **Rules:** Sci-Fi Companion Power Armor pp.119–127, Heavy Metal p.93; SWADE Core p.117.  
@@ -42,3 +42,6 @@ Operators change suits if requisition/training/fitting allow it. A CMC-equipped 
 3. Should default Marauder kinetic foam be a +1 Toughness Mod, Trauma Pack, or a variant specific to its chronology?
 4. Verify comparative movement/physical Size and cost only with actual sources; **SFC Size 2 is a mechanical frame, not an observed lore height**.
 5. Decide Medic protective model only after checking official depictions and equipment.
+
+## Provisional acceptance and integration
+Do not block the remaining roster on first-pass performance tuning: the table above is now the **working powered-infantry equipment baseline**. Normal Heavy Metal character interface and suit Critical Hits have already been approved separately. The Firebat's **thermal specialty**, Marauder **ordnance/foam**, and Medic **protective equipment choice** are still incompletely specified and **must be made playable** before the packet is called complete. The generic Size 2 frame's pace, strength, weight, life support and existing drawbacks remain the rules baseline, **not canon physical measurements**. Integrated playtests will determine whether any numbers need revision.

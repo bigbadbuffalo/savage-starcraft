@@ -2,7 +2,7 @@
 
 A lore-first conversion of Blizzard Entertainment's **StarCraft** setting to **Savage Worlds Adventure Edition (SWADE)**.
 
-**Status:** Foundational policy and research scaffolding. This is an unofficial fan conversion in early development; there are no approved unit statistics yet.
+**Status:** Unofficial fan conversion in active equipment and rules design. The C-14 and core CMC armor lines now have **provisional `playtest` statistics**; no finalized/`approved` unit profiles or integrated session playtests yet.
 
 ## Start here
 
