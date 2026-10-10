@@ -4,7 +4,7 @@ Each source has a stable ID, default tier, form, and retrieval locator. This is 
 
 | ID | Source | Priority | Locator / status |
 | --- | --- | --- | --- |
-| SC98-MANUAL | *StarCraft* original instruction manual (1998) | P1 | Original manual: https://ftp.blizzard.com/pub/misc/StarCraft.PDF ; **verified available**, not exhaustively reviewed |
+| SC98-MANUAL | *StarCraft* original instruction manual (1998) | P1 | Original manual: https://ftp.blizzard.com/pub/misc/StarCraft.PDF ; **official URL identified**; remote PDF could not be fetched for a page-by-page review in this pass |
 | SC98-GAME | *StarCraft* (1998) story/campaigns | P1 | Primary game; detailed mission index **pending** |
 | SCBW-GAME | *StarCraft: Brood War* (1998) story/campaigns and original manual | P1 | Primary expansion; manual access/index **pending** |
 | SC2-WOL | *StarCraft II: Wings of Liberty* (2010) campaign | P1 | Primary campaign; mission index **pending** |
