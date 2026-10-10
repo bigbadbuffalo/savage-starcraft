@@ -29,13 +29,15 @@
 - [x] **Approve fixed Heavy Metal Class as an equipment attribute of power armor**, unaffected by wearer's Vigor; prioritize testing very lethal Marine-on-Marine class combat.
 - [x] Confirm ordinary SWADE character procedures remain unchanged; do not introduce a redundant Soak rule.
 - [x] **Approve one power-armor Critical Hit roll per independently wounding attack (not per Wound)** and no vehicle-only Out-of-Control check for individual suit wearers, following the Core vehicle Critical Hit precedent.
-- [ ] Playtest Heavy Metal Class I/II infantry encounters, then decide individual CMC/C-14 statistics.
+- [x] **Numerical Monte Carlo diagnostic** of Class I/II Marine-vs-Marine and heavy-infantry firefights, including RoF, raises, cover and recoil; recorded at `development/benchmarks/HEAVY-METAL-INFANTRY-FIRE-TEST.md`.
+- [ ] Conduct actual **tabletop/complete-encounter playtest** with Soak, Bennies, armor Critical Hits, cover, team movement, and specialist weapons; only then decide individual CMC/C-14 numbers.
 - [ ] Complete detailed sequential unit/structure entries for the 1998 manual.
 - [ ] Obtain/audit Brood War manual and index story changes.
 - [ ] Compile individual novel/comic bibliography with precise provenance.
 - [ ] Choose pilot campaign's exact era, faction sponsor, and starting Rank.
 - [ ] Resolve disputed dimensions in historical Unit Sizes sheet.
-- [ ] Choose a coherent equipment baseline and test **Terran infantry equipment / anti-armor** numerical profiles using SWADE systems; research checklist at `development/benchmarks/TERRAN-INFANTRY-BENCHMARK.md`.
+- [x] Produce first **fully specified draft** C-14 and CMC suit family (all values provisional) and comparative Heavy Metal specialist ladder; published in `equipment/terran/`.
+- [ ] Approve final C-14 / CMC item statistics **after** checking lore-specific equipment variants, balanced shooting modes and actual encounter tests.
 - [ ] Build five sample PCs from approved baseline.
 - [ ] Conduct end-to-end pilot playtest and revise.
 

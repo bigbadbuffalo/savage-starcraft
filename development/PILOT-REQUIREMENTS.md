@@ -100,3 +100,6 @@ For the first pilot, benchmark published SWADE + Science Fiction Companion mecha
 
 ## Armor-family and Heavy Metal test checkpoint
 Use `development/benchmarks/CMC-ARMOR-STUDY.md` and `HEAVY-METAL-INTERFACE.md` when designing infantry benchmarks. The four-rule package, fixed power-armor Classes, **one suit Critical Hit roll per separately resolved attack that causes at least one Wound**, and exclusion of vehicle-only Out-of-Control checks for suit wearers are approved interpretations in `rules/SETTING-RULES.md`. **Actual C-14/CMC numbers and combat outcomes still require playtests.**
+
+## First quantitative equipment prototypes (2026-10-10)
+See `equipment/terran/C14-IMPALER-DRAFT.md`, `equipment/terran/CMC-POWER-ARMOR-DRAFT.md` and `development/benchmarks/HEAVY-METAL-INFANTRY-FIRE-TEST.md`. Simulation measures heavy class Wounds before Soak, not real session play or final PC death. First complete test must include at least one ordinary Marine Extra, one armored Marine Wild Card, one heavy shock trooper, live tactical Cover, RoF, 3RB, valid rifle mount, Bennies/Soak and suit Critical Hits. The biological opponent benchmark is deferred per owner.

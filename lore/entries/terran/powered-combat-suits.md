@@ -22,3 +22,12 @@
 **Finding aids only:** https://starcraft.fandom.com/wiki/CMC_Powered_Combat_Suit , https://starcraft.fandom.com/wiki/Marauder , https://starcraft.fandom.com/wiki/Medic . These indexes mix official publications, noncanonical games and secondary interpretation.
 
 **Working relative hierarchy (inference):** Medic light support; CMC-300 standard Marine; CMC-400 improved Marine; CMC-660 heavy specialized flame; 5-4 heavy kinetic/explosive support. This does **not** prove exact armor increments or that 5-4 universally outperforms CMC-660 against fire.
+
+## Additional P2 narrative cross-check — *Stealing Thunder* (2010)
+**Source ID:** SC-STORY-STEALING-THUNDER. Blizzard officially promoted the Micky Neilson story: https://news.blizzard.com/en-gb/article/9989828/new-starcraft-lore-short-story-stealing-thunder . The specific text has been inspected **through a third-party reproduction**, not a currently accessible original Blizzard page: https://www.scribd.com/document/856020212/8-StarCraft-Stealing-Thunder . Confidence **medium-high** for these specific scenes, but exact original edition/pages still need direct verification.
+
+- **Marauder hardskin vs gauss:** In an asteroid-corridor engagement, advancing Marauder Isaac White sees gauss spikes ricochet from his armor while Marine teammates lay suppressive fire. **Perspective:** third-person narrative following Isaac. **Era:** circa 2504. **Role implication:** Marauder armor should defeat many ordinary gauss hits. **Not** evidence of *total* immunity to all penetrators/weak points.
+- **Firebat vs Marauder:** A Firebat uses Perdition flamethrowers to drive Isaac into urgent tactical improvisation; heat endangers his on-board ordnance. **Role implication:** thermal threats can bypass a simplistic kinetic-defense hierarchy. **Not** proof that a regular Firebat's flames have a particular Heavy Metal Weapon Class or SWADE damage dice.
+- **Other:** Suit systems include low-gravity accelerators, a HUD, and auto-loading Punisher ammunition in this depicted Marauder. These are features of this narrative model; do not assume every historical or factional variant has identical systems.
+
+Lore evidence remains separate from suggested `+14/+16` SFC Armor and Class II values, which are **original draft mechanics** in `development/benchmarks/` and `equipment/terran/`.

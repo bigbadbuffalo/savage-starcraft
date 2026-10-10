@@ -97,3 +97,9 @@ A first numerical candidate is appropriate only once:
 **Next immediate deliverable:** a researched side-by-side of Core/SFC personal firearms and Power Armor rules *versus* candidate Foundry weapon models, leading to a small, testable C-14/CMC numerical draft—not a complete equipment encyclopedia.
 
 **CMC follow-up:** [CMC Armor Study](CMC-ARMOR-STUDY.md) now compares Marine/Firebat/Marauder/Medic armor. [Heavy Metal Interface](HEAVY-METAL-INTERFACE.md) records why character-suit versus vehicle damage requires explicit scope.
+
+## First numerical escalation checkpoint (2026-10-10)
+- **Equipment test cards:** `../../equipment/terran/C14-IMPALER-DRAFT.md` and `../../equipment/terran/CMC-POWER-ARMOR-DRAFT.md`.
+- **Reproducible computational diagnostic:** `HEAVY-METAL-INFANTRY-FIRE-TEST.md` and `HEAVY-METAL-FIRE-SIM.py`. Simulated Shooting rolls are **not** an actual session playtest, nor approval.
+- **Class ladder:** C-14 I vs standard CMC I lethal; versus heavier CMC II damage only on raises; versus Class III+ target no effect. Dedicated Class II HEV-type penetrator and SFC stock Class III rocket provide separately graded antiarmor, rather than granting the C-14 a generic anti-tank property.
+- **Handling:** Standard carried C-14 retains SWADE Recoil; mounted weapon rules or a truly attached suit weapon + Stabilizer can negate Recoil as appropriate. This is a major balance-sensitive dependency.

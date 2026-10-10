@@ -87,3 +87,10 @@ The project owner approved **fixed Heavy Metal Classes for powered suits**, cons
 Candidate C-14 **2d10/AP4/HW = Weapon Class I**. Candidate CMC-300 and CMC-400 are **Class I**; heavier Firebat/Marauder versions **Class II**. This yields **1d3 direct Wounds** on an ordinary C-14 hit vs a Class I suit, and **0** vs a Class II suit (1 on a raise). These are conditional *Heavy Metal table outputs*, not full encounter outcomes. Character rules remain unchanged. The **approved interpretation** uses one suit Critical Hit roll per independently wounding attack and no vehicle-only Out-of-Control check for a wearer; see `HEAVY-METAL-INTERFACE.md`. The weapon statistics still require testing.
 
 The C-14 and suit statistics remain **unapproved playtest candidates**. A conventional character-damage test remains as a *control* but no longer the working default for power-armored infantry. Creature armor/Zerglings will be handled in later bestiary research.
+
+## Quantified design round: v0.2 (2026-10-10)
+The prior research remains historical; the *current* draft gear line and test caveats live in `../../equipment/terran/C14-IMPALER-DRAFT.md` and `HEAVY-METAL-INFANTRY-FIRE-TEST.md`. First complete **test placeholder**: Range 30/60/120, Damage 2d10, AP4, RoF3, Shots100, Min Str d10, Weight20, Heavy Weapon (Class I), optional **3RB**. Only Damage/AP/RoF/HW are anchored closely to SFC HMG/assault-rifle analogues; Shots, Weight, Range and 3RB are speculative and may change.
+
+**New mechanical discovery:** SFC p.45 allows personal weapons **20 lb+** to mount on bipod/tripod/vehicle, negating Recoil and Min Str when actually mounted. SFC p.125 Stabilizer only works on **attached** direct-fire weapons; **no automatic CMC-to-carried-C14 stabilization**. Valid mounting materially changes the simulated rate of successful hits and Wounds.
+
+**Specialist benchmark:** The SFC stock 2d12/AP4 sniper is still Weapon **Class I**; a proposed *true penetrator* of 2d12/AP8 is **Class II** and remains a separate design question from the C-14.

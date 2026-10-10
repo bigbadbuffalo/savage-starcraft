@@ -64,3 +64,8 @@ Using traditional SWADE character damage rather than Heavy Metal: a Vigor d6 hum
 3. Observe suit mobility, basic HUD/stealth/fine-motor penalties, cost/recharge and critical damage at the table.
 4. Test flame specialization and kinetic impacts with existing SWADE precedent, without assuming universal resistance.
 5. **Fixed Class and the power-armor damage interface are approved interpretations.** Test suit performance and complete equipment specifications before promoting profiles to `approved`. Defer Zergling/small-creature interactions until the bestiary.
+
+## First quantitative firefight test (2026-10-10)
+The current **draft equipment sheet** is `../../equipment/terran/CMC-POWER-ARMOR-DRAFT.md`, and the analysis is `HEAVY-METAL-INFANTRY-FIRE-TEST.md`. Using 300K simulated RoF3 Shooting actions, a Wild Card with Shooting d6 firing a non-stabilized Class I C-14 against an exposed Class I Marine scores **1+ successful hits ~51.6% of actions** and inflicts **4+ cumulative pre-Soak Wounds ~18.0% of actions**. Against a Class II suit, **at least one Wound is caused ~29.3%** (requires Shooting raise). Against light cover, the latter drops to **~10.7%**. Stabilized RoF3 increases lethality dramatically if truly mounted or attached under published rules.
+
+**SFC note not captured in earlier suit sketches:** `Self-Sealing` fails to operate when the wearer takes **three or more Wounds from one attack** (SFC p.123). Also `Ballistic Protection` reduces *rolled damage*, not directly inflicted Heavy Metal Wounds; do not use it as a fictional +Class anti-C14 effect absent rule support. All actual suit numbers remain **draft**.
