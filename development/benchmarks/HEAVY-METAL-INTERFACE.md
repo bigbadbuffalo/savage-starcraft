@@ -1,6 +1,6 @@
-# Heavy Metal ↔ Personal Power Armor — Approved Class Convention, Pending Damage Details
+# Heavy Metal ↔ Personal Power Armor — Approved Combat Interface
 
-**Status:** **Fixed suit Class approved** (2026-10-10); **testing Heavy Metal against powered infantry approved in principle**. Ordinary character rules remain unchanged; suit-critical-hit multiplicity and vehicle-only consequences remain to review.  
+**Status:** **Approved design interpretations** (2026-10-10): fixed suit Class, normal character Wound procedures, **one suit Critical Hit roll per independently wounding attack**, and **no vehicle Out-of-Control rolls for an individual wearer**. Equipment profiles and specific combat outcomes still require testing.  
 **Sources directly reviewed:** *Science Fiction Companion* pp. **93**, **120–123**, **126–127** (printed), plus existing SWADE character-Wound rules.  
 **Related:** `rules/SETTING-RULES.md`, `CMC-ARMOR-STUDY.md`, `C14-MECHANICAL-STUDY.md`.
 
@@ -47,18 +47,26 @@ The owner has directed that **no bespoke Soak rule be added**: if the official d
 ## Published vehicle precedent: multiple Wounds from one damage roll
 **Direct source check:** *SWADE Core Rules* **p. 117**, Attacks → Damage → Vehicles, explicitly states a vehicular damage roll causes **one roll on the Vehicle Critical Hits table, not one roll per Wound**. Thus one attack/damage roll producing three vehicle Wounds gives **one** normal Critical Hit roll, whereas three independently damaging attacks can give three. A specific weapon or rule may generate additional Critical Hits (for example the Science Fiction Companion's High Explosive effects, p. 93). The SFC reproduces the vehicle critical-hit table on **p. 95** without a general per-Wound replacement.
 
-**Power armor comparison:** *Science Fiction Companion* **p. 120** says that when a character in power armor takes **a Wound**, their suit suffers a breach and a roll on its own Critical Hit table. That paragraph does **not** explicitly state how multiple Wounds from **one attack** multiply Critical Hit rolls; however the Core **one-roll-per-damage-roll** vehicle precedent strongly favors **one suit Critical Hit roll per independently damaging attack**, *not per Wound*. This is a **research interpretation / proposed application**, not a verbatim extension of p. 117 to all powered suits or a newly approved homebrew rule. The rule's trigger should be evaluated **after ordinary Soak**, since a completely Soaked hit leaves the character with no Wound.
+**Power armor comparison (approved Savage StarCraft interpretation):** *Science Fiction Companion* **p. 120** says that when a power-armored wearer takes **a Wound**, the suit is breached and rolls on its own Critical Hit table. The paragraph does not explicitly specify separate rolls for *multiple Wounds from one attack*. By the Core **one-roll-per-damage-roll** vehicle precedent, **one independently resolved attack that leaves one or more Wounds causes one suit Critical Hit roll, not one per Wound**. Separately resolved damaging hits can each trigger a roll. If the character receives no Wounds, no wound-triggered suit Critical Hit roll occurs. This is an **adopted analogy/interpretation**, not power-armor text quoted as RAW. The project has **not** added a Soak rule or independent suit Wound track.
 
-**Separate complication:** The SFC Heavy Metal rule on p. 93 sometimes calls for an operator maneuvering/Out-of-Control check. The SFC power-armor combat section on pp. 120–121 does **not** give powered infantry an Out-of-Control roll; do not automatically invent one.
+**Out of Control (approved scope interpretation):** The Heavy Metal rule on SFC p. 93 refers to an operator maneuvering/Out-of-Control check. SFC power armor pp. 120–121 supplies no corresponding check for a personal wearer. **Do not impose vehicle-only Out-of-Control or maneuvering checks on an infantry character merely for wearing powered armor.** Vehicle operators continue to follow their relevant rules.
 
-## Remaining focused review
-1. **Suit Critical Hits:** The **Core p. 117 vehicle rule explicitly specifies one Critical Hit roll per damage roll, not per Wound**. For SFC p. 120 personal power armor, the simplest interpretation is one suit Critical Hit roll for each independently wounding attack after ordinary Soak. Confirm whether this is a sufficiently grounded interpretation; do not mislabel the vehicle rule as verbatim power-armor RAW.
-2. **Vehicle-only instructions:** Heavy Metal p. 93 includes a **maneuvering / Out of Control** note. Determine its applicability to someone wearing power armor, without assuming a standing Marine needs to make a vehicle operator check.
-3. **Armor modifications:** Printed Armor/Toughness Mods may prompt a permanent revision of a model's Class; the wearer's personal traits and temporary Toughness changes do not dynamically recalculate the suit Class.
-4. **Fiction fidelity:** Marine-on-Marine gauss fire can be very lethal; specialized Firebat/Marauder armor should resist ordinary C-14 hits. **Zerglings and other creatures are deferred** to the bestiary workstream.
+## Approved interpretation — concise reference
+1. Each **power armor suit has a fixed listed Class** for Heavy Metal; never change it because the wearer has different Vigor.
+2. Resolve the attack with the published **Heavy Metal Class comparison** when the target is a classed powered suit. The Wounds belong to the **wearing character**, not a new suit Wound track. Use the ordinary character rules without a special StarCraft Soak mechanic.
+3. An **independently resolved attack** that leaves the wearer with **one or more Wounds** triggers **one suit Critical Hit roll** under the SFC power-armor rule, **not one roll per Wound**. Multiple separate wounding attacks can trigger multiple Critical Hit rolls. The normal suit-breach rules still apply.
+4. Do **not** impose vehicle-specific **Out-of-Control or maneuvering rolls** on a character merely wearing powered armor.
+
+**Rules provenance:** The fixed Class is consistent with the published power-armor profile format (SFC p. 120; examples pp. 126–127). The Critical Hit multiplicity applies the **Core vehicle precedent** (Core p. 117) to the more briefly worded SFC power-armor rule (p. 120); it is a **project-approved interpretation**, not an express official ruling for power armor. Vehicle maneuvering rolls are scoped to vehicles. No additional Setting Rule for Soak is needed.
+
+## Further playtesting, not open rules disputes
+- Verify Class I-on-Class I Marine lethality and the Class II shock-troop threshold in complete encounters, including multiple RoF attacks, cover, ordinary Soak and suit degradation.
+- Decide final C-14 damage/AP/RoF and CMC model Class/Armor/Mods on their own evidence. **Those equipment numbers are still only draft candidates.**
+- Document suit repairs, breaches and conditions only as needed; do not add detailed maintenance bookkeeping solely because multiple Wounds are possible.
+- Defer Zergling/other living-creature Class interactions to later bestiary work.
 
 ## Superseded working recommendation
 Earlier benchmark drafts proposed excluding individual power-armor wearers from Heavy Metal and using ordinary damage against them. That cautious option remains a **comparative control**, but is **no longer the preferred first-test path**, following the project's acceptance of fixed suit Classes and lethal Marine-on-Marine combat. Preserve standard damage as a measured comparison; do not erase historical rationale.
 
 ## Acceptance gate
-The **fixed-Class convention is approved**. The **C-14 statistics, individual CMC suit numbers, uncertain suit-critical-hit/vehicle-specific interactions, and mechanical playtest outcomes remain unapproved**. Core character mechanics are unchanged; record actual combat tests before publishing finished profiles.
+The **fixed-Class, suit Critical Hit multiplicity and no-Out-of-Control-for-wearers conventions are approved**. The **C-14 statistics, individual CMC suit numbers and combat playtest outcomes remain unapproved**. Core character mechanics are unchanged.

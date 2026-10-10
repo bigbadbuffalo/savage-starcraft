@@ -28,7 +28,8 @@
 - [x] Draft modular CMC family with candidate Armor and C-14 comparison, no approved profiles.
 - [x] **Approve fixed Heavy Metal Class as an equipment attribute of power armor**, unaffected by wearer's Vigor; prioritize testing very lethal Marine-on-Marine class combat.
 - [x] Confirm ordinary SWADE character procedures remain unchanged; do not introduce a redundant Soak rule.
-- [ ] Verify suit Critical Hits on multi-Wound hits and vehicle-only Out-of-Control instructions before approving gear.
+- [x] **Approve one power-armor Critical Hit roll per independently wounding attack (not per Wound)** and no vehicle-only Out-of-Control check for individual suit wearers, following the Core vehicle Critical Hit precedent.
+- [ ] Playtest Heavy Metal Class I/II infantry encounters, then decide individual CMC/C-14 statistics.
 - [ ] Complete detailed sequential unit/structure entries for the 1998 manual.
 - [ ] Obtain/audit Brood War manual and index story changes.
 - [ ] Compile individual novel/comic bibliography with precise provenance.
