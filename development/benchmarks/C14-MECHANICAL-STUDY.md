@@ -80,5 +80,10 @@ Reuse the Foundry project **mechanical-home method**, especially differentiating
 4. **Do not invent** velocity, projectile mass/length, rifle weight, power drain, capacitor cooldown, warship armor penetration, or exact 500-round standard magazine size.
 5. **Next research:** Direct Field Manual and novel cross-check, then numerical attack tests and companion suit design.
 
-## New armor interaction finding (2026-10-10)
-C-14 draft 2d10/AP4/HW has **Weapon Class I**, but Heavy Metal Class I vs Class I automatically causes 1d3 Wounds on hit; vs Class II normally causes zero unless the attack has a raise. Applying this to human characters in CMC-300 +10 and CMC-400 +12 makes protection jump discontinuously. Test ordinary SWADE damage against individual armored characters, while Heavy Metal governs vehicles. This is an **interface recommendation, not an approved house rule**. See the dedicated CMC and Heavy Metal files.
+## Updated armor interaction decision (2026-10-10)
+
+The project owner approved **fixed Heavy Metal Classes for powered suits**, consistent with the Companion's published suit `Title/Class` entry (p. 120). The chosen first test now applies the **Heavy Metal Class relation** to Marine-versus-Marine and Marine-versus-heavy-assault-suit combat, rather than preemptively falling back to ordinary damage. Extreme Marine-versus-Marine lethality is **intentional and acceptable**.
+
+Candidate C-14 **2d10/AP4/HW = Weapon Class I**. Candidate CMC-300 and CMC-400 are **Class I**; heavier Firebat/Marauder versions **Class II**. This yields **1d3 direct Wounds** on an ordinary C-14 hit vs a Class I suit, and **0** vs a Class II suit (1 on a raise). These are conditional *Heavy Metal table outputs*, not a simulation of the complete character Soak/Incapacitation/Critical Hit procedure. Test that interface; see `HEAVY-METAL-INTERFACE.md`.
+
+The C-14 and suit statistics remain **unapproved playtest candidates**. A conventional character-damage test remains as a *control* but no longer the working default for power-armored infantry. Creature armor/Zerglings will be handled in later bestiary research.

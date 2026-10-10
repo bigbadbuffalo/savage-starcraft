@@ -26,6 +26,8 @@
 - [x] Investigate C-14 weapon class: direct original-manual evidence, later-source leads and a SWADE Heavy Weapon/Heavy Armor hypothesis; **not yet approved**.
 - [x] Record approved Setting Rules package and unresolved Heavy Metal/power-armor scope.
 - [x] Draft modular CMC family with candidate Armor and C-14 comparison, no approved profiles.
+- [x] **Approve fixed Heavy Metal Class as an equipment attribute of power armor**, unaffected by wearer's Vigor; prioritize testing very lethal Marine-on-Marine class combat.
+- [ ] Validate Soak/Incapacitation/suit Critical Hits with direct Class Wounds on character wearers before approving gear.
 - [ ] Complete detailed sequential unit/structure entries for the 1998 manual.
 - [ ] Obtain/audit Brood War manual and index story changes.
 - [ ] Compile individual novel/comic bibliography with precise provenance.
