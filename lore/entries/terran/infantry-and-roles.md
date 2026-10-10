@@ -14,3 +14,5 @@
 | TER-INF-07 | Goliath's twin autocannons and anti-air missiles are distinct weapon systems serving distinct roles. | p. 38, Goliath | Explicit; P1 | High |
 
 **Game-design implications (interpretation only):** A Marine or Firebat is not a rigid PC class. Build infantry skills, background, optional implants and detachable hardware separately; permit non-standard equipment subject to compatibility and availability. Do not claim P1 explicitly documents every possible rocket-launcher loadout—research that in appropriate novels and later military sources.
+
+**Rifle-specific research:** [C-14 Impaler Lore Evidence](c14-impaler.md) separates direct original-manual assertions from later novel/Field Manual claims still awaiting page-level verification.

@@ -23,6 +23,7 @@
 - [x] Draft Phase 2 campaign framework and pilot requirements.
 - [x] Integrate SWADE for Foundry's general mechanical design methodology with explicit cross-project independence.
 - [x] Prepare a sourced preliminary Terran infantry equipment benchmark and interaction matrix (**no approved stats**).
+- [x] Investigate C-14 weapon class: direct original-manual evidence, later-source leads and a SWADE Heavy Weapon/Heavy Armor hypothesis; **not yet approved**.
 - [ ] Complete detailed sequential unit/structure entries for the 1998 manual.
 - [ ] Obtain/audit Brood War manual and index story changes.
 - [ ] Compile individual novel/comic bibliography with precise provenance.

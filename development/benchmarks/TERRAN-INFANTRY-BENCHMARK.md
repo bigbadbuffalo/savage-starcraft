@@ -4,6 +4,8 @@
 **State:** `collecting` (rules research/design hypotheses only; **no approved damage, AP, Armor or equipment prices**).  
 **Objective:** Create a small SWADE-compatible reference point for ordinary humans, infantry small arms, Marine-grade armor and credible anti-armor tools, without translating RTS damage or making a "Marine class."
 
+**C-14 investigation started:** [C14-MECHANICAL-STUDY.md](C14-MECHANICAL-STUDY.md) compares P1 lore to published SWADE peers. Its Heavy Weapon hypothesis and numeric profile are **draft/testing candidates only**.
+
 ## 1. Lore questions before rules
 The existing [1998 manual audit](../../lore/research/SC98-MANUAL-AUDIT.md) and [Terran infantry entry](../../lore/entries/terran/infantry-and-roles.md) are first evidence anchors.
 
