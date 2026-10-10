@@ -3,7 +3,7 @@
 **Status:** Draft numerical hypotheses for testing; **not finalized equipment**.  
 **Lore grounding:** `lore/entries/terran/powered-combat-suits.md`; original StarCraft manual p.35, Brood War manual pp.10–11.  
 **Rules grounding:** Science Fiction Companion **Power Armor pp.119–127** and **Heavy Metal p.93**; normal SWADE character damage.  
-**Setting package:** `rules/SETTING-RULES.md`. **Fixed suit Class convention approved**; individual CMC Classes/statistics and character Wound/Soak details remain provisional in `HEAVY-METAL-INTERFACE.md`.
+**Setting package:** `rules/SETTING-RULES.md`. **Fixed suit Class convention approved**; individual CMC Classes/statistics and suit-critical-hit/vehicle-specific interaction details remain provisional in `HEAVY-METAL-INTERFACE.md`.
 
 ## Chassis from published rules — not a new subsystem
 | SFC power armor Size | Starting Heavy Armor | Maximum Armor | Pace | Suit Strength | Available Mod slots |
@@ -46,7 +46,7 @@ The Companion publishes fixed **Class** entries for power armor (p. 120; stock s
 
 The C-14's proposed 2d10/AP4/HW produces **Weapon Class I** (average damage 11+AP4 = 15). The class-relative wounds are a deliberate **high-lethality infantry hypothesis**, not an undesirable accident. Heavy-shock-armor protection against standard gauss fire is a desired role distinction, though specialist warheads/weak points remain relevant.
 
-**Important interface:** Printed vehicle-oriented Heavy Metal p.93 still raises questions concerning individual-character **Soak, Incapacitation, suit Critical Hits and the Out-of-Control maneuvering note**. They require a narrow playtest/ruling; see `HEAVY-METAL-INTERFACE.md`. Avoid assuming that the "Out of Control" instruction applies verbatim to a standing Marine.
+**Important interface:** Keep existing SWADE character rules rather than adding a new Soak or Wound track for power armor. Outstanding checks concern **suit Critical Hits from multiple Wounds** and the vehicle-specific **Out-of-Control** note; see `HEAVY-METAL-INTERFACE.md`. Avoid assuming that the "Out of Control" instruction applies verbatim to a standing Marine.
 
 ## Ordinary character-damage comparison (retained as diagnostic control, no longer primary)
 
@@ -56,11 +56,11 @@ Using traditional SWADE character damage rather than Heavy Metal: a Vigor d6 hum
 - **Lore established:** CMC-300/400 are standard Marine suits, CMC-660 is heavier/flame-protective, Marauder 5-4 is advanced heavy assault according to later-source leads.
 - **Approved adaptation:** Powered suit has a **fixed Heavy Metal Class** per profile, not modified by wearer Vigor.
 - **Draft adaptations:** +10/+10/+14/+16 Armor, Class I/I/II/II, each suit's Mods, and C-14 2d10/AP4/HW.
-- **Pending validation:** Wound/Soak/Critical Hit procedure for classed powered infantry, and scenario tests including very high Marine-vs-Marine lethality.
+- **Pending validation:** Suit Critical Hits with multiple Wounds, vehicle-only Heavy Metal effects, and encounter tests including very lethal Marine-vs-Marine combat.
 
 ## Next acceptance tests
 1. Inspect edition/page-specific later lore for CMC-300/400 feature differences, Marauder foam and Medical armor.
 2. Compare chosen CMC-300 +10 to the real C-14 (its Damage/AP/RoF not yet approved), and check whether ordinary non-Heavy Weapons fail appropriately.
 3. Observe suit mobility, basic HUD/stealth/fine-motor penalties, cost/recharge and critical damage at the table.
 4. Test flame specialization and kinetic impacts with existing SWADE precedent, without assuming universal resistance.
-5. **Fixed Class is approved.** Resolve remaining Heavy Metal Wound/Soak/suit Critical Hit handling for individuals before promoting any suit profile to `approved`. Defer Zergling/small-creature interactions until the bestiary.
+5. **Fixed Class is approved.** Use existing character procedures unchanged. Review any unclear suit Critical Hit and vehicle-only text before promoting suit profiles to `approved`. Defer Zergling/small-creature interactions until the bestiary.

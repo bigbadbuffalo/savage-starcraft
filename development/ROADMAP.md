@@ -27,7 +27,8 @@
 - [x] Record approved Setting Rules package and unresolved Heavy Metal/power-armor scope.
 - [x] Draft modular CMC family with candidate Armor and C-14 comparison, no approved profiles.
 - [x] **Approve fixed Heavy Metal Class as an equipment attribute of power armor**, unaffected by wearer's Vigor; prioritize testing very lethal Marine-on-Marine class combat.
-- [ ] Validate Soak/Incapacitation/suit Critical Hits with direct Class Wounds on character wearers before approving gear.
+- [x] Confirm ordinary SWADE character procedures remain unchanged; do not introduce a redundant Soak rule.
+- [ ] Verify suit Critical Hits on multi-Wound hits and vehicle-only Out-of-Control instructions before approving gear.
 - [ ] Complete detailed sequential unit/structure entries for the 1998 manual.
 - [ ] Obtain/audit Brood War manual and index story changes.
 - [ ] Compile individual novel/comic bibliography with precise provenance.

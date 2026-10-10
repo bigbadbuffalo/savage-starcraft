@@ -1,7 +1,7 @@
 # Heavy Metal ↔ Personal Power Armor — Approved Class Convention, Pending Damage Details
 
-**Status:** **Fixed suit Class approved** (2026-10-10); **testing Heavy Metal against powered infantry approved in principle**, with character-specific handling unresolved.  
-**Sources directly reviewed:** *Science Fiction Companion* pp. **93**, **120–123**, **126–127** (printed), plus existing SWADE character-Wound/Soak rules.  
+**Status:** **Fixed suit Class approved** (2026-10-10); **testing Heavy Metal against powered infantry approved in principle**. Ordinary character rules remain unchanged; suit-critical-hit multiplicity and vehicle-only consequences remain to review.  
+**Sources directly reviewed:** *Science Fiction Companion* pp. **93**, **120–123**, **126–127** (printed), plus existing SWADE character-Wound rules.  
 **Related:** `rules/SETTING-RULES.md`, `CMC-ARMOR-STUDY.md`, `C14-MECHANICAL-STUDY.md`.
 
 ## Verified printed evidence and the exact interpretive limit
@@ -41,16 +41,17 @@ The proposed C-14 **2d10, AP4, RoF3, Heavy Weapon** has **Weapon Class I** (aver
 
 **Class thresholds are desirable here, not automatically broken.** A first-line Marine rifle can kill other Marines while heavier shock troop armor defeats ordinary hits and invites specialist ordnance, flanking, demolition, suppressive fire, and combined arms. This accords with user design direction and with later fiction depicting Marauder armor defeating gauss fire; the weapon/suit values themselves remain unapproved.
 
-## Character interface still requiring targeted playtests
-1. **Soak:** Determine clearly that normal Soak opportunities apply to Heavy Metal-inflicted character Wounds unless a published exception says otherwise; check precise application for PCs vs Extras.
-2. **Incapacitation:** Decide/confirm how 1d3 / 1d3+1 direct Wounds progress across the usual character Wound thresholds and Incapacitation.
-3. **Suit Critical Hits:** SFC says wearer Wounds cause suit Critical Hits and breaches; check whether each wound triggers a separate roll and how Soak affects that.
-4. **Vehicle-only instructions:** The p. 93 **maneuvering / Out of Control** note needs a sensible domain limit for individuals, not an invented pilot roll for a standing infantryman.
-5. **Armor modifications:** Printed Armor/Toughness Mods influence normal Toughness and potentially a permanently reassigned model Class; don't dynamically recalculate suit Class based on personal Toughness, fatigue, Wound levels or temporary effects.
-6. **Fiction fidelity:** Regular combat rifle vs regular CMC should be frighteningly lethal. Marauder armor should remain formidable but not invulnerable to specialist fire. **Zerglings and other creatures deferred** to the bestiary workstream.
+## Existing character mechanics remain in force
+The owner has directed that **no bespoke Soak rule be added**: if the official damage procedure inflicts Wounds on a character and does not specify an exception, continue using the Core character rules. Power armor is not being given a second independent Wound track in this conversion. This is **ordinary rules application**, not a new StarCraft Setting Rule, so the player-facing Setting Rules document does not restate Soak procedure.
+
+## Remaining focused review
+1. **Suit Critical Hits:** SFC p. 120 describes a breach and Critical Hit when the wearer takes a Wound. Check whether multiple unsoaked Wounds from one Heavy Metal hit require multiple suit Critical Hit rolls; do not quietly design extra mechanics.
+2. **Vehicle-only instructions:** Heavy Metal p. 93 includes a **maneuvering / Out of Control** note. Determine its applicability to someone wearing power armor, without assuming a standing Marine needs to make a vehicle operator check.
+3. **Armor modifications:** Printed Armor/Toughness Mods may prompt a permanent revision of a model's Class; the wearer's personal traits and temporary Toughness changes do not dynamically recalculate the suit Class.
+4. **Fiction fidelity:** Marine-on-Marine gauss fire can be very lethal; specialized Firebat/Marauder armor should resist ordinary C-14 hits. **Zerglings and other creatures are deferred** to the bestiary workstream.
 
 ## Superseded working recommendation
 Earlier benchmark drafts proposed excluding individual power-armor wearers from Heavy Metal and using ordinary damage against them. That cautious option remains a **comparative control**, but is **no longer the preferred first-test path**, following the project's acceptance of fixed suit Classes and lethal Marine-on-Marine combat. Preserve standard damage as a measured comparison; do not erase historical rationale.
 
 ## Acceptance gate
-The **fixed-Class convention is approved**. The **C-14 stats, individual CMC suit numbers, Wound/Soak/Critical-Hit interface, and mechanical playtest outcomes remain unapproved**. Record actual combat tests before publishing finished profiles.
+The **fixed-Class convention is approved**. The **C-14 statistics, individual CMC suit numbers, uncertain suit-critical-hit/vehicle-specific interactions, and mechanical playtest outcomes remain unapproved**. Core character mechanics are unchanged; record actual combat tests before publishing finished profiles.
