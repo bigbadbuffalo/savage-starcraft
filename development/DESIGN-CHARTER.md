@@ -43,3 +43,12 @@ A mechanic is not complete unless it has (a) cited fictional behavior, (b) clear
 
 ## Scope not yet decided
 Exact campaign start era, mixed Terran/Protoss PC balance, playable Zerg variants, method for shields, psionics, combined-arms threat scaling, and starship-combat granularity remain explicit design questions. No decision is implied merely by listing a possible subsystem.
+
+## Cross-project mechanical design doctrine
+Savage StarCraft should adopt the **process**, not automatically the numerical profiles, of the companion [SWADE for Foundry workspace](https://github.com/bigbadbuffalo/swade-foundry-workspace).
+
+Use its SWADE Homebrew Design Framework as a way to identify mechanical home, existing SWADE precedent, delivery and payload, resources, defensive interactions, countermeasures, scaling, and implementation burden. Preserve StarCraft's lore-first priority and this project's independent balancing/approval authority.
+
+The Foundry workspace's science-fiction weapon catalogs are built as a **closed equipment ecosystem** with some intentional house rules; their numbers are useful diagnostic references, not a new RAW baseline and not implicitly compatible with default SWADE equipment. Adopt individual mechanics or full catalogs only after an explicit coherence and playtest decision.
+
+Complete tabletop procedures first. Foundry data, effects, compendia, and macros are subsequent implementation work. See `development/CROSS-PROJECT-MECHANICS-POLICY.md`.

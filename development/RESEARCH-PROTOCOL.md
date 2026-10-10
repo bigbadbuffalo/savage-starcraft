@@ -31,3 +31,21 @@ Mark unresolved questions rather than treating them as blocks to other independe
 
 ## Methodological grounding
 *World Builder & Game Master's Guide*, printed pages 3–11, especially **Converted Settings** on pp. 10–11: preserve themes, avoid bloated conversions, reuse existing abilities, and compare monsters/Extras with published examples. *SWADE Vehicle Guide*, printed pp. 4–6: obtain fictional hard data where possible, but use Size/volume/target-profile benchmarks as flexible starting points rather than exact conversion formulae.
+
+## Reusing SWADE for Foundry's design grammar
+Follow `development/CROSS-PROJECT-MECHANICS-POLICY.md` when designing substantial equipment, powers, armor, monsters, machines, or new Setting Rules.
+
+1. Establish the **fictional effect**, player choices, and use cases; do not start from a preferred numerical profile.
+2. Search all relevant SWADE mechanical locations (Core, applicable Companion, gear, Edges, Powers, creature abilities, hazards, conditions, and Setting Rules).
+3. Identify the natural **mechanical home**: base hardware, ammunition/payload, installed subsystem, personal ability, Trapping, situational mode, environmental hazard, etc.
+4. For borrowed mechanisms, document **original context cost** (Power Points, Rank, Edge opportunity cost, capacity, ammunition, cooldown, setup, rarity, or narrative scarcity). Do not import a benefit free of those constraints by accident.
+5. Evaluate host/payload compatibility, stacking, target defenses, Heavy Armor/Heavy Weapon eligibility, and action economy; define counterplay and lifecycle only where it matters in play.
+6. State whether the implementation is **RAW**, **interpretation**, **adaptation**, **house rule**, or **Foundry implementation**, and whether a rule is `idea`, `draft`, `playtest`, or `approved`.
+7. Compare *both* published SWADE precedents and any carefully chosen Foundry project precedent; the latter's closed-catalog numbers are diagnostic, not automatically StarCraft balance targets.
+8. Write the tabletop procedure before Foundry automation. Record what was actually tested.
+
+### Required mechanical provenance
+Each substantial conversion record should identify the **published SWADE book/page** (where available), any **Foundry repo path + commit** used as precedent, how that idea was adapted, its original economy or power-band assumptions, and the specific StarCraft decision that approves or defers it.
+
+### First candidate
+See `development/benchmarks/TERRAN-INFANTRY-BENCHMARK.md` for the C-14 / powered armor / anti-armor mechanical research setup. It is not an approved weapon catalog.

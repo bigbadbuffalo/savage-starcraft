@@ -12,7 +12,9 @@ A lore-first conversion of Blizzard Entertainment's **StarCraft** setting to **S
 4. [Source registry](lore/SOURCE-REGISTRY.md) — sources actually identified and their default priorities.
 5. [Research protocol](development/RESEARCH-PROTOCOL.md) — reproducible claim-level documentation.
 6. [Roadmap](development/ROADMAP.md) and [decision log](development/DECISION-LOG.md).
-7. [Unit-scale research queue](references/unit-sizes.md) — inherited, unverified estimates and issues.
+7. [Cross-project mechanics policy](development/CROSS-PROJECT-MECHANICS-POLICY.md) — how to use the SWADE for Foundry design framework without inheriting its house rules.
+8. [Terran infantry equipment benchmark](development/benchmarks/TERRAN-INFANTRY-BENCHMARK.md) — first scoped mechanical research and interaction tests (not approved stats).
+9. [Unit-scale research queue](references/unit-sizes.md) — inherited, unverified estimates and issues.
 
 ## Approach
 
@@ -37,3 +39,8 @@ Git tracks files, not empty directories; sections are populated when their first
 ## Rights and attribution
 
 *StarCraft* is Blizzard Entertainment's intellectual property; *Savage Worlds* belongs to Pinnacle Entertainment Group. This repository is an unaffiliated, unofficial fan project, not an official or licensed rules product. Do not commit copies of commercial manuals, PDFs, art, novels, or long copyrighted passages. Cite sources and write original summaries and mechanics. Publication/distribution permissions need separate review before public release of substantial adaptations.
+
+## SWADE for Foundry relationship
+The private [SWADE for Foundry master workspace](https://github.com/bigbadbuffalo/swade-foundry-workspace) is a **referenced general mechanical methodology and possible future VTT implementation home**, not the authority for StarCraft continuity or an automatic dependency. Its finalized science-fiction weapon catalogs are part of a different closed-equipment conversion; proposed crossovers must be documented and benchmarked. This public repository remains intelligible without access to that private repository.
+
+The next research activity is the C-14/CMC infantry mechanical baseline, **not** a finalized Marine class or a giant bestiary.

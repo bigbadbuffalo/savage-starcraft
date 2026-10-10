@@ -10,6 +10,8 @@ A dated record of *project decisions*, not a declaration that every potential me
 | DEC-004 | 2026-10-10 | Research | Adopt project P1–P4 priority, with independent claim confidence and evidence type | User-agreed Holocron-style approach; `lore/CANON-POLICY.md` |
 | DEC-005 | 2026-10-10 | Research | Treat original StarCraft manual as foundational P1; later direct clarifications may modify individual interpretations | User-agreed; preserve earlier evidence and disputes |
 | DEC-006 | 2026-10-10 | Research | Preserve the old Unit Sizes chart as unverified working data, not canonical measurements | User-supplied historical estimates; `references/unit-sizes.md` |
+| DEC-007 | 2026-10-10 | Process | Use SWADE for Foundry design principles/homebrew framework as a **mechanical design method** for Savage StarCraft | Cross-project policy; user-authorized integration, independent StarCraft approvals |
+| DEC-008 | 2026-10-10 | Boundary | Do not automatically import Foundry closed-ecosystem weapon profiles, house rules, workflow state, or VTT limitations into StarCraft | Existing Foundry total-conversion doctrine; require explicit, tested StarCraft adoption |
 
 ## Outstanding decisions
 - Campaign time period and which factions/species are initially player-accessible.

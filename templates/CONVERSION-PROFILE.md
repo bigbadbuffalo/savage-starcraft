@@ -11,6 +11,15 @@ Describe canonical behavior without RPG mechanics and cite relevant claim IDs.
 ## Existing SWADE solution
 Rulebook/title/printed page; candidate Trait, Gear, Edge, power/Trapping, vehicle or creature ability. Why existing rules do or do not suffice.
 
+## Design-mechanism analysis and provenance
+- Natural mechanical home (personal ability / base item / ammunition / mode / mod / vehicle system / hazard / etc.):
+- Delivery, resolution, effect, target defenses, limits and counterplay:
+- Original context/economy (Rank/Edge cost, PP, ammo, actions, scarcity, etc.):
+- Rules status for each notable effect: RAW / Interpretation / Adaptation / House Rule / Foundry Implementation:
+- Optional Foundry precedent (repository file + observed commit; **not** automatic project adoption):
+- Assumed equipment ecosystem and compatibility decisions:
+- See `development/CROSS-PROJECT-MECHANICS-POLICY.md`.
+
 ## Mechanical proposal
 Complete stat block or equipment entry; distinguish fixed capabilities, removable gear, and situational training. No class-only equipment locks.
 

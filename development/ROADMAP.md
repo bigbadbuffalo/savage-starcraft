@@ -21,12 +21,14 @@
 - [x] Seed acknowledged continuity error and apparent-contradiction examples.
 - [x] Complete **first-pass thematic audit** of the original 1998 manual (pp. 26–90 selected/indexed).
 - [x] Draft Phase 2 campaign framework and pilot requirements.
+- [x] Integrate SWADE for Foundry's general mechanical design methodology with explicit cross-project independence.
+- [x] Prepare a sourced preliminary Terran infantry equipment benchmark and interaction matrix (**no approved stats**).
 - [ ] Complete detailed sequential unit/structure entries for the 1998 manual.
 - [ ] Obtain/audit Brood War manual and index story changes.
 - [ ] Compile individual novel/comic bibliography with precise provenance.
 - [ ] Choose pilot campaign's exact era, faction sponsor, and starting Rank.
 - [ ] Resolve disputed dimensions in historical Unit Sizes sheet.
-- [ ] Build first **Terran infantry equipment / anti-armor** mechanical benchmarks using existing SWADE systems.
+- [ ] Choose a coherent equipment baseline and test **Terran infantry equipment / anti-armor** numerical profiles using SWADE systems; research checklist at `development/benchmarks/TERRAN-INFANTRY-BENCHMARK.md`.
 - [ ] Build five sample PCs from approved baseline.
 - [ ] Conduct end-to-end pilot playtest and revise.
 
@@ -34,3 +36,6 @@
 Proceed with **a focused Terran frontier slice first**, while maintaining a setting-wide toolbox that permits later Protoss/Zerg and other campaigns. Research facts and mechanics stay separate.
 
 See: `lore/research/SC98-MANUAL-AUDIT.md`, `development/CAMPAIGN-FRAMEWORK.md`, `development/PILOT-REQUIREMENTS.md`.
+
+## Cross-project reference
+The companion [SWADE for Foundry workspace](https://github.com/bigbadbuffalo/swade-foundry-workspace) provides a detailed general-purpose Homebrew Design Framework and modular weapon design methods. Savage StarCraft **adopts methodology only**, not the Foundry project's different equipment baseline or house rules by default. See `development/CROSS-PROJECT-MECHANICS-POLICY.md`.

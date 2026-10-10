@@ -2,7 +2,7 @@
 
 **Working pilot:** *The Silent Colony*  
 **State:** Requirements specification, not a completed module or numerical rules set.  
-**Design dependency:** `development/CAMPAIGN-FRAMEWORK.md`. Lore backing: `lore/research/SC98-MANUAL-AUDIT.md`.
+**Design dependency:** `development/CAMPAIGN-FRAMEWORK.md`. Lore backing: `lore/research/SC98-MANUAL-AUDIT.md`. Mechanical method: `development/CROSS-PROJECT-MECHANICS-POLICY.md`.
 
 ## 1. Purpose
 Test the smallest complete package that makes a Terran StarCraft adventure recognizably StarCraft and recognizably SWADE. We will not build entire factions before checking one working slice.
@@ -86,9 +86,14 @@ For every scene note: player goal; actual actions; rules used; time/round count;
 - Any new rules required are documented, short and tested.
 
 ## 10. Immediate next design task
-Build a **Terran infantry equipment benchmark**, not an entire arsenal:
+The research and test procedure is now established in [Terran Infantry Benchmark](benchmarks/TERRAN-INFANTRY-BENCHMARK.md). Build a **Terran infantry equipment benchmark**, not an entire arsenal:
 1. Human baseline and C-14 fictional design requirements.
 2. Stock SWADE gun/armor precedents.
 3. CMC armor protective behavior.
 4. Anti-armor reference threat.
 5. Three sample interactions and a short field test.
+
+## 11. Cross-project equipment compatibility gate
+The Foundry workspace maintains finalized sci-fi weapons in a separately balanced total-conversion ecosystem. **Do not mix** its Damage/AP/Range/weight/ammunition profiles and stock SWADE/Sci-Fi Companion gear without deciding and documenting a compatible StarCraft equipment baseline.
+
+For the first pilot, benchmark published SWADE + Science Fiction Companion mechanics before considering Foundry substitutions. A selected Foundry rule or ammunition model remains a *candidate precedent* until adopted through the decision log and interaction tests. Foundry automation is outside this pilot's first rules approval gate.
