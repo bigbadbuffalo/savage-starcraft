@@ -1,0 +1,12 @@
+# Keep copyrighted source PDFs and privately held reference books out of the public repository
+Sources/
+sources/
+*.pdf
+
+# Local research copies, transient exports, and build products
+.local/
+.cache/
+tmp/
+__pycache__/
+.DS_Store
+Thumbs.db
