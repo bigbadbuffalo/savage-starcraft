@@ -95,3 +95,5 @@ A first numerical candidate is appropriate only once:
 6. Provisional draft values are marked **candidate/playtest**, never RAW or canon.
 
 **Next immediate deliverable:** a researched side-by-side of Core/SFC personal firearms and Power Armor rules *versus* candidate Foundry weapon models, leading to a small, testable C-14/CMC numerical draft—not a complete equipment encyclopedia.
+
+**CMC follow-up:** [CMC Armor Study](CMC-ARMOR-STUDY.md) now compares Marine/Firebat/Marauder/Medic armor. [Heavy Metal Interface](HEAVY-METAL-INTERFACE.md) records why character-suit versus vehicle damage requires explicit scope.

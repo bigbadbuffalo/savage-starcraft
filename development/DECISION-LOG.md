@@ -12,6 +12,9 @@ A dated record of *project decisions*, not a declaration that every potential me
 | DEC-006 | 2026-10-10 | Research | Preserve the old Unit Sizes chart as unverified working data, not canonical measurements | User-supplied historical estimates; `references/unit-sizes.md` |
 | DEC-007 | 2026-10-10 | Process | Use SWADE for Foundry design principles/homebrew framework as a **mechanical design method** for Savage StarCraft | Cross-project policy; user-authorized integration, independent StarCraft approvals |
 | DEC-008 | 2026-10-10 | Boundary | Do not automatically import Foundry closed-ecosystem weapon profiles, house rules, workflow state, or VTT limitations into StarCraft | Existing Foundry total-conversion doctrine; require explicit, tested StarCraft adoption |
+| DEC-009 | 2026-10-10 | Rules | Approve small Setting Rules package: More Skill Points (default), Heavy Metal (preferred vehicular), Giant Foes and Extreme Environments (situational). | User-approved; see `rules/SETTING-RULES.md`; individual power-armor interface still open |
+| DEC-010 | 2026-10-10 | Draft | Candidate modular CMC suits based on SFC Size 2 chassis +10/+12/+14/+16 Armor, plus lighter Medic alternative. | `development/benchmarks/CMC-ARMOR-STUDY.md`; **not approved statistics** |
+| DEC-011 | 2026-10-10 | Deferred rules | Do not silently apply vehicle-only direct-Wound Heavy Metal outcomes to all personal power armor; compare scope choices. | `development/benchmarks/HEAVY-METAL-INTERFACE.md` |
 
 ## Outstanding decisions
 - Campaign time period and which factions/species are initially player-accessible.

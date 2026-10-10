@@ -1,0 +1,24 @@
+# Terran infantry armor — lore evidence and confidence
+
+**Status:** Collecting. This file contains *lore*, **not game Armor values**. Separate actual armor model, operator's profession, faction, era and upgrades.
+
+## Direct foundational evidence
+| ID | Proposition | Source / locator | Confidence |
+| --- | --- | --- | --- |
+| ARM-01 | Confederate Marine standard equipment includes CMC-300/400 powered combat suit, with life support, NBC shielding and protection against **most**, not necessarily all, small arms. | SC98-MANUAL p. 35, Marine | P1 explicit, high |
+| ARM-02 | Firebat employs CMC-660 Heavy Combat Suit; notably heavier than normal marine suit, offering specialized resistance to heat and flame. | SC98-MANUAL p. 35, Firebat | P1 explicit, high |
+| ARM-03 | Original Blizzard unit description also calls Firebat suits **more durable** than Marine armor. | SC98-BNET-FIREBAT, https://classic.battle.net/scc/terran/ufire.shtml | Official description explicit; don't convert nearby RTS statistics |
+| ARM-04 | UED Medic is an unarmed battlefield physician with **protective shielding**, capable of sophisticated field surgery. Neither exact Armor nor model is specified. | SCBW-MANUAL printed p. 10, Medic; scanned copy https://manuals.plus/m/427fe339417b94f7ac935269b64be58544d55d49ab7ba1e90cf2552db0fd80bc.pdf | P1 explicit, high |
+| ARM-05 | The same manual describes the Medic's A-13 flash grenade launcher as its defensive armament. | SCBW-MANUAL p. 11, Optic Flare | P1 explicit, high; not proof that all medics in all eras lack guns |
+
+## Later publications — leads needing page-level confirmation
+- **CMC-200:** early obsolete suit; specific date and model details indexed by StarCraft Wiki, attributed to the novels.
+- **CMC-300:** widespread older infantry frame with advanced sensors, motor assistance, power and potentially stim supplies; direct supporting passages pending.
+- **CMC-400:** updated suite with communications and stimulants; exact additional plating **not** established in 1998 manual.
+- **5-4 Marauder suit:** reported in *Wings of Liberty* armory description and *Field Manual*, developed from Firebat 660, with thicker neosteel replacing some heat insulation, ammunition-making launcher support and improved kinetic impact protection. Later kinetic foam is not synonymous with more plating.
+- **Medic:** later descriptions depict lighter protection and a shield; neither a precise CMC suit model nor an unvarying civilian-grade classification is directly established by Brood War.
+- **CMC-405:** traced in secondary accounts to older licensed tabletop material. Do **not** promote this model as P1 canon without independent corroboration.
+
+**Finding aids only:** https://starcraft.fandom.com/wiki/CMC_Powered_Combat_Suit , https://starcraft.fandom.com/wiki/Marauder , https://starcraft.fandom.com/wiki/Medic . These indexes mix official publications, noncanonical games and secondary interpretation.
+
+**Working relative hierarchy (inference):** Medic light support; CMC-300 standard Marine; CMC-400 improved Marine; CMC-660 heavy specialized flame; 5-4 heavy kinetic/explosive support. This does **not** prove exact armor increments or that 5-4 universally outperforms CMC-660 against fire.

@@ -3,7 +3,7 @@
 **Status:** **Candidate research, NOT approved or playtested**  
 **Date:** 2026-10-10  
 **Fictional grounding:** `lore/entries/terran/c14-impaler.md`; SC98-MANUAL p. 35 (direct P1); 2015 *Field Manual*/novels provide only *indirectly verified* supplemental details in this pass.  
-**Design method:** `development/CROSS-PROJECT-MECHANICS-POLICY.md`.
+**Design method:** `development/CROSS-PROJECT-MECHANICS-POLICY.md`. **Related:** [CMC Armor Study](CMC-ARMOR-STUDY.md), [Heavy Metal Interface](HEAVY-METAL-INTERFACE.md); see added note below.
 
 ## 1. Problem to solve
 The C-14 is called a “rifle,” but its P1 profile is a hypersonic 8mm armor-penetrating automatic gauss weapon ordinarily deployed with CMC power armor. Use that behavior rather than mapping directly to an M16 by name. Ordinary infantry can use specialist weapons; C-14 is not a Marine-class power.
@@ -79,3 +79,6 @@ Reuse the Foundry project **mechanical-home method**, especially differentiating
 3. **First interaction hypothesis:** **Heavy Weapon** deserves priority testing because ordinary SFC power armor has Heavy Armor. Not yet approved.
 4. **Do not invent** velocity, projectile mass/length, rifle weight, power drain, capacitor cooldown, warship armor penetration, or exact 500-round standard magazine size.
 5. **Next research:** Direct Field Manual and novel cross-check, then numerical attack tests and companion suit design.
+
+## New armor interaction finding (2026-10-10)
+C-14 draft 2d10/AP4/HW has **Weapon Class I**, but Heavy Metal Class I vs Class I automatically causes 1d3 Wounds on hit; vs Class II normally causes zero unless the attack has a raise. Applying this to human characters in CMC-300 +10 and CMC-400 +12 makes protection jump discontinuously. Test ordinary SWADE damage against individual armored characters, while Heavy Metal governs vehicles. This is an **interface recommendation, not an approved house rule**. See the dedicated CMC and Heavy Metal files.

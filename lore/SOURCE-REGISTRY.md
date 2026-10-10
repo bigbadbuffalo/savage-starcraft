@@ -6,7 +6,10 @@ Each source has a stable ID, default tier, form, and retrieval locator. This is 
 | --- | --- | --- | --- |
 | SC98-MANUAL | *StarCraft* original instruction manual (1998) | P1 | Original manual Blizzard URL: https://ftp.blizzard.com/pub/misc/StarCraft.PDF ; **1998 text and printed pages inspected using 96-page facsimile** https://manuals.plus/m/fdb4dcccc69a2f7c1d7d8c67e0930bc42a3687005dd62270539cb64f3a3fabb0.pdf ; first-pass thematic audit at `lore/research/SC98-MANUAL-AUDIT.md`; Blizzard host unavailable to reviewer |
 | SC98-GAME | *StarCraft* (1998) story/campaigns | P1 | Primary game; detailed mission index **pending** |
-| SCBW-GAME | *StarCraft: Brood War* (1998) story/campaigns and original manual | P1 | Primary expansion; manual access/index **pending** |
+| SCBW-GAME | *StarCraft: Brood War* (1998) story/campaigns | P1 | Missions to index |
+| SCBW-MANUAL | *StarCraft: Brood War* original manual (1998) | P1 | https://manuals.plus/m/427fe339417b94f7ac935269b64be58544d55d49ab7ba1e90cf2552db0fd80bc.pdf ; Medic pp. 10–11 inspected; full audit pending |
+| SC98-BNET-MARINE | Blizzard classic StarCraft Marine web unit guide (fiction paragraphs) | P1 | https://classic.battle.net/scc/terran/um.shtml ; inspected, RTS stats are not physical evidence |
+| SC98-BNET-FIREBAT | Blizzard classic StarCraft Firebat web unit guide (fiction paragraphs) | P1 | https://classic.battle.net/scc/terran/ufire.shtml ; inspected, gameplay numbers excluded |
 | SC2-WOL | *StarCraft II: Wings of Liberty* (2010) campaign | P1 | Primary campaign; mission index **pending** |
 | SC2-HOTS | *StarCraft II: Heart of the Swarm* (2013) campaign | P1 | Primary campaign; mission index **pending** |
 | SC2-LOTV | *StarCraft II: Legacy of the Void* (2015) campaign | P1 | Primary campaign; mission index **pending** |

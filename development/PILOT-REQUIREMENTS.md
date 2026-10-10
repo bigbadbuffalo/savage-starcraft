@@ -97,3 +97,6 @@ The research and test procedure is now established in [Terran Infantry Benchmark
 The Foundry workspace maintains finalized sci-fi weapons in a separately balanced total-conversion ecosystem. **Do not mix** its Damage/AP/Range/weight/ammunition profiles and stock SWADE/Sci-Fi Companion gear without deciding and documenting a compatible StarCraft equipment baseline.
 
 For the first pilot, benchmark published SWADE + Science Fiction Companion mechanics before considering Foundry substitutions. A selected Foundry rule or ammunition model remains a *candidate precedent* until adopted through the decision log and interaction tests. Foundry automation is outside this pilot's first rules approval gate.
+
+## Armor-family and Heavy Metal test checkpoint
+Use `development/benchmarks/CMC-ARMOR-STUDY.md` and `HEAVY-METAL-INTERFACE.md` when designing infantry benchmarks. The four-rule package is approved in `rules/SETTING-RULES.md`, but direct Heavy Metal damage to individual powered suits and every proposed suit statistic remain unresolved.
