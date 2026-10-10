@@ -1,7 +1,7 @@
 # Marauder 5-4 — Kinetic Foam as Power Armor Modification
 
 **Date:** 2026-10-10  
-**Status:** Research and **proposed one-Mod custom rule**, **not owner-approved mechanics**. The numeric +16 Heavy Armor / fixed Class II Marauder playtest baseline **does not change**.  
+**Status:** **Kinetic Foam rule owner-approved** on 2026-10-10 as one custom Power Armor Mod with a +2 conditional Soak bonus; the numerical +16 Heavy Armor / fixed Class II Marauder playtest baseline **does not change**. Exact published rule text is at `../../equipment/terran/KINETIC-FOAM-MODIFICATION.md`; this study preserves the alternatives and original rationale.  
 **Scope:** Reconsider the prior Trauma Pack recommendation; test a compact *kinetic impact* Mod that remains meaningful with Heavy Metal.
 
 ## Fictional evidence, clearly distinguished from conversion
@@ -23,13 +23,13 @@
 | **Iron Jaw Edge**, Core **p.42**, character ability | **+2 Soak rolls** (and +2 to avoid Knockout Blows) | A familiar, published **modifier to ordinary Soak**, including Wounds from Heavy Metal when Soak is allowed | Closest **mechanical precedent** for reducing the *consequences* of transferred impact force before Wounds apply |
 | **Soak Rolls**, Core **p.96** | Spend a Benny, roll Vigor; success/raises cancel Wounds from *one attack*; one Soak attempt per attack (rerolls by Bennies) | Applies normally to a power-armor wearer per established project interpretation | Relevant native resolution, no second Wound track |
 
-## Candidate custom Mod: Kinetic Foam (not yet approved)
+## Approved custom Mod: Kinetic Foam (research history and rationale)
 
 **KINETIC FOAM**  
 **Mods:** **1 (1)**. **Cost:** TBD; SFC p.123–124 defensive mods provide pricing precedents.  
 **Effect:** A fitted shock-dispersion undersuit grants the wearer **+2 on Vigor Soak rolls against physical impact Wounds**, such as high-velocity projectiles, blunt crushing blows, concussive explosive shock, and collision/fall impacts **when a Soak attempt is permitted**. It **does not provide a free Soak roll**, cancel a Wound automatically, prevent critical hits when a Wound remains, increase listed Armor/Toughness or change the suit's fixed Heavy Metal Class. The wearer spends Bennies and resolves Soak exactly as usual. The bonus **does not** apply to fire/heat, energy beams, electrical damage, poison/acid, radiation, or psionic effects just because they inflict Wounds. Mixed damage (explosive concussive shock + burning) should use the attack's actual fiction and adjudication, rather than grant blanket +2 to all explosions.
 
-**Alternative first test:** Reduce the bonus to **+1** if integrated testing shows +2 too resilient, or buy the existing **Toughness +1** Mod instead for a strict RAW-only suit. This is a **candidate**, not an added Setting Rule.
+**Historical alternatives, not the chosen rule:** +1 to Soak or the published Toughness +1 Mod were previously considered. The owner approved **+2 conditional Soak / 1 Mod**. Revisit only if integrated testing identifies a concrete balance problem.
 
 **Reasoning:** The Soak bonus is analogous to the published *Iron Jaw* bonus, narrowed to kinetic impact and made **equipment-dependent**. Unlike a flat reduction in Wounds, it doesn't make Class I C-14 raises automatically harmless against a Class II Marauder. Unlike +1 Toughness or standard Ballistic Protection, it actually matters in Heavy Metal. Cost and whether it stacks with the *Iron Jaw* Edge or other Soak bonuses need a normal batch balance check; avoid approving stacking exploits without review.
 
@@ -37,7 +37,7 @@
 
 ## Starting Mod slot budget, provisional only
 
-**Marauder (Size 2, 6 Mods):** 3× Armor (**3**) + optional Kinetic Foam (**1**) = **4/6 used**, leaving **2 slots** for the launcher/mount/suit system and/or published **Toughness +1** or **Ballistic Protection**. One of those latter Mods would leave **1** additional slot. The precise K12 hardpoint/weapon Mod requirements must be determined with the complete Marauder offensive equipment profile; **the 10 lb SFC Integrated Gear limit is not automatically sufficient**.
+**Foam-equipped Marauder (Size 2, 6 Mods):** 3× Armor (**3**) + the approved but optional Kinetic Foam upgrade (**1**) = **4/6 used**, leaving **2 slots** for the launcher/mount/suit system and/or published **Toughness +1** or **Ballistic Protection**. One of those latter Mods would leave **1** additional slot. The precise K12 hardpoint/weapon Mod requirements must be determined with the complete Marauder offensive equipment profile; **the 10 lb SFC Integrated Gear limit is not automatically sufficient**.
 
 **Firebat (Size 2, 6 Mods):** 2× Armor (**2**) + potentially Self-Sealing (**1**) = **3/6 used**, leaving **3 slots** for heat-related protection, delivery-system hardware, and further customization. **Do not use Trauma Pack by default.** Environmental sealing is standard for a powered suit, but does not specifically defend against hostile flamethrowers. Do not add Kinetic Foam automatically to Firebats absent variant lore or equipment redesign.
 
@@ -46,6 +46,6 @@
 ## Recommendation for this project
 1. **Withdraw the previous default Trauma Pack recommendation**; its pharmaceutical mechanism isn't supported by the evidence at hand for either suit.
 2. Preserve Marauder **+16 Heavy Armor / Class II**, Firebat **+14 Heavy Armor / Class II**.
-3. Explore **Kinetic Foam, 1 Mod, +2 to conditional physical-impact Soak**, as the most faithful simple native-resolution adaptation, **pending owner review and integrated packet testing**. A +1 bonus is a balance alternative.
+3. **Approved:** **Kinetic Foam, 1 Mod, +2 to conditional physical-impact Vigor Soak**. It uses normal Benny costs and does not modify Heavy Metal Class. See the current rule at `../../equipment/terran/KINETIC-FOAM-MODIFICATION.md`. A historical +1 alternative is retained for potential later balance diagnostics.
 4. Keep **Toughness +1** and **Ballistic Protection** available as separate *published* Mods: they make excellent variant options, but neither by itself does what the lore says against Class-based powered infantry attacks.
-5. Do not alter the approved core Soak or Heavy Metal interaction rules, and do not mark the bespoke Mod approved without explicit owner adoption.
+5. The bespoke **Mod has been explicitly approved**, but does **not** alter the approved core Soak or Heavy Metal interaction rules. Costs and integrated-combat balance remain open.

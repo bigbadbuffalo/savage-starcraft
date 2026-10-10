@@ -56,4 +56,5 @@ Do **not** stop development at each plausible weapon or suit to demand a standal
 - [x] Review **officially licensed StarCraft TMG** public unit-card ranges and targeting tags as **comparative design evidence**, not canonical ballistics; see `references/STARCRAFT-TMG-COMPARISON.md`.
 
 - [x] Distinguish in-lore kinetic-foam shock absorption from drug-based **Trauma Pack**; research a Soak-compatible custom Kinetic Foam Mod while preserving existing Toughness/Ballistic Protection RAW options. See `development/benchmarks/MARAUDER-KINETIC-FOAM-STUDY.md`.
-- [ ] Agree on the specific optional **Kinetic Foam** Mod wording and finalize Firebat/Marauder Mod allocations as part of the wider equipment packet—not as an isolated balancing gate.
+- [x] **Approve Kinetic Foam Mod**: 1 slot, +2 to Vigor Soak against physical kinetic/concussive Wounds, normal Benny and Heavy Metal interface; `equipment/terran/KINETIC-FOAM-MODIFICATION.md`.
+- [ ] Finalize Firebat thermal defense and Marauder K12 mount/hardpoint Mods as part of the broader equipment packet.

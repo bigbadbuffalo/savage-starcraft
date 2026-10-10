@@ -21,6 +21,8 @@ A dated record of *project decisions*, not a declaration that every potential me
 
 | DEC-015 | 2026-10-10 | **Approved workflow / provisional baseline** | Treat existing C-14 numerical profile and CMC-300/400, CMC-660, Marauder 5-4 candidate armor figures as **`playtest` provisional values**, adequate for broader design but **not final approved statistics**. **Build the entire functional, cross-faction equipment/character/creature/vehicle packet before integrated balancing**; individual tabletop tests are no longer a gate between equipment entries. | User-approved 2026-10-10; `development/INTEGRATED-PLAYTEST-PACKET.md`; tests distinguish published rules, lore-derived facts, provisional estimates, Monte Carlo benchmark and actual sessions. |
 
+| DEC-016 | 2026-10-10 | **Approved StarCraft Power Armor Modification** | **Kinetic Foam:** 1 Mod slot (maximum 1); the wearer receives **+2 on ordinary Vigor Soak rolls against Wounds from kinetic/concussive physical impacts**, including applicable Heavy Metal hits. **No free Soak**, no automatic Wound reduction, no Armor/Toughness/Class change; normal Benny and suit Critical Hit rules still apply. Excludes fire/heat and other non-impact harms. **Trauma Pack is not stock-issue by analogy alone.** | Owner-approved; `equipment/terran/KINETIC-FOAM-MODIFICATION.md`; SWADE Core Soak and Iron Jaw, SFC power-armor Mod framework. This is custom StarCraft equipment, **not published RAW**. Does not imply every Marauder has the upgrade. |
+
 ## Outstanding decisions
 - Campaign time period and which factions/species are initially player-accessible.
 - Shields: preferred existing mechanics and recharge behavior.
