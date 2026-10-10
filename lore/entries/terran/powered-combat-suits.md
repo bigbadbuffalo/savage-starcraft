@@ -31,3 +31,6 @@
 - **Other:** Suit systems include low-gravity accelerators, a HUD, and auto-loading Punisher ammunition in this depicted Marauder. These are features of this narrative model; do not assume every historical or factional variant has identical systems.
 
 Lore evidence remains separate from suggested `+14/+16` SFC Armor and Class II values, which are **original draft mechanics** in `development/benchmarks/` and `equipment/terran/`.
+
+## Firebat/Marauder comparison reviewed (2026-10-10)
+The 1998 manual p. 35 **directly proves Firebat protection is heavier than a Marine**, but has no later Marauder comparison. A reproduced older *StarCraft II* Marauder technical writeup says 5-4 and CMC-660 are **roughly equal total weight**, with some insulation exchanged for **thicker neosteel plating**; **the original publication has not been inspected**. In-game `Wings of Liberty` descriptions indexed in a contemporary guide distinguish Firebat **Juggernaut Plating** (strengthened helmet/chest and weak spots) from Marauder **Kinetic Foam** (occupant shock protection). The lore implies **ballistic-vs-thermal specialization**, not categorical Firebat inferiority. Detailed provenance, RTS numbers and the currently missing wargame Firebat profile: `../../development/benchmarks/FIREBAT-MARAUDER-ARMOR-COMPARISON.md`.

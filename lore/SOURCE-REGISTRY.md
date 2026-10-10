@@ -10,7 +10,7 @@ Each source has a stable ID, default tier, form, and retrieval locator. This is 
 | SCBW-MANUAL | *StarCraft: Brood War* original manual (1998) | P1 | https://manuals.plus/m/427fe339417b94f7ac935269b64be58544d55d49ab7ba1e90cf2552db0fd80bc.pdf ; Medic pp. 10–11 inspected; full audit pending |
 | SC98-BNET-MARINE | Blizzard classic StarCraft Marine web unit guide (fiction paragraphs) | P1 | https://classic.battle.net/scc/terran/um.shtml ; inspected, RTS stats are not physical evidence |
 | SC98-BNET-FIREBAT | Blizzard classic StarCraft Firebat web unit guide (fiction paragraphs) | P1 | https://classic.battle.net/scc/terran/ufire.shtml ; inspected, gameplay numbers excluded |
-| SC2-WOL | *StarCraft II: Wings of Liberty* (2010) campaign | P1 | Primary campaign; mission index **pending** |
+| SC2-WOL | *StarCraft II: Wings of Liberty* (2010) campaign | P1 | Primary campaign; mission index **pending**. **Hyperion Armory upgrade descriptions** for Firebat Juggernaut Plating and Marauder Kinetic Foam have been consulted via a dated third-party transcription https://gamefaqs.gamespot.com/pc/939643-starcraft-ii-wings-of-liberty/faqs/60938 ; exact in-game text **not yet independently captured**. |
 | SC2-HOTS | *StarCraft II: Heart of the Swarm* (2013) campaign | P1 | Primary campaign; mission index **pending** |
 | SC2-LOTV | *StarCraft II: Legacy of the Void* (2015) campaign | P1 | Primary campaign; mission index **pending** |
 | SC2-NCO | *StarCraft II: Nova Covert Ops* mission packs (2016) | P1 | Primary narrative campaign; mission index **pending** |
