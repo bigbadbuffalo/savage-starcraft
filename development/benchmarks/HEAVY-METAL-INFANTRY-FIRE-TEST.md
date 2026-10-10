@@ -9,7 +9,7 @@
 - Attacker Shooting **d6** (except specified d8 veteran), target TN **4**, no Range/Illumination modifiers, unless Light Cover **–2**. Wild Cards roll **one Wild d6 per firing action** that may replace the lowest Shooting die, **not add a fourth hit** at RoF3.
 - C-14 **draft** Damage 2d10/AP4/Heavy Weapon/RoF3 = **Class I**. RoF3 rolls three Shooting dice and normally incurs **Recoil –2**. A valid **mounted/stabilized** firing position removes that –2.
 - **Class I wearer:** 1d3 Wounds on a successful hit plus 1 Wound for a raise. **Class II wearer:** 0 Wounds on ordinary hit or 1 Wound on a Shooting raise.
-- **Separate Shooting dice** create separately resolved hits; cumulative total Wounds across those hits are summed **for analysis only**.
+- **All RoF3 Shooting dice are deliberately assigned to the *same target*.** Separate successful Shooting dice create separately resolved hits; cumulative total Wounds across those hits are summed **for analysis only**, not automatically treated as one hit or one suit Critical Hit.
 - The experiment deliberately excludes **Soak, Bennies, rerolls, damage Incapacitation resolution, armor Critical Hits/breaches, mounted weapon deployment, suppression, Tests, Support, Aim, Fighting, out-of-ammo checks, Innocent Bystanders, and Initiative**. It also excludes actual dice damage for unclassed targets and the Firebat's flame hazard. Thus **pre-Soak four-plus Wounds is *not* the same thing as final PC death probability**.
 - This is a mathematical SWADE-combat sanity check, not StarCraft lore data or actual playtest evidence.
 
