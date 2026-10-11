@@ -19,7 +19,7 @@
 - Still **not an exact StarCraft engineering stat**: the name `Light Duty` doesn't mean a flimsy Zealot, merely the published quality that removes **Heavy Armor classification** to represent shields/armor distinctively.
 
 ## Option 3 — actual Heavy Armor suit with a rechargeable shield
-- A standard SFC Size1 or Size2 frame left **Heavy** receives fixed Class I or II under the project rules, and the native p.42 +4 Toughness field **cannot reduce direct Heavy Metal Wounds**.
+- A standard SFC Size1 or Size2 frame left **Heavy** needs an explicitly assigned fixed Class I or II under the project rules (frame Size **does not itself determine Class**); the native p.42 +4 Toughness field **cannot reduce direct Heavy Metal Wounds**.
 - If choosing this route, the better native source for a genuine plasma shield is **SFC p.123 Shields**, which consumes Electronics-based Soak charges and recharges in 10min. Its host/power frame/class logic must be fully explicit. A published Power Armor Shields Mod costs **half Size, rounded up**, so **1 Mod on a Size1–2** frame, and charges equal Size (**1 for Size1, 2 for Size2**). This is RAW if the character really wears a suitable power-armor frame; an external shield using charge2 without one is custom.
 - Keeping full Heavy Armor **Class I** Zealot and giving a power-armor Shields Mod would be a **mechanically very different** duel vs C-14 than the unclassed Light Duty setups; do not call them identical.
 - **No mandatory superiority**: Heavy Metal ClassI protection against ClassI Marine fire can still be *more lethal* than ordinary rolled damage against Toughness19 because every qualifying hit yields 1d3 direct Wounds. A pure Armor +8/Benny shield is not automatically weaker.
