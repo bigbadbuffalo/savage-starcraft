@@ -64,3 +64,12 @@ Do **not** stop development at each plausible weapon or suit to demand a standal
 
 - [x] **Owner approves Size 3 for Firebat CMC-660 and Marauder 5-4** with current +14/+16 Heavy/Class II provisional protection unchanged; update suit Pace/Strength and nine-slot budgets. See `development/benchmarks/POWER-ARMOR-FRAME-SIZING-STUDY.md`.
 - [ ] Review **Fire-Resistant Insulation**, the 1-Mod **draft** based on Core Environmental Resistance (Heat): +4 to resist heat/fire hazards, −4 conventional fire damage, no automatic direct Heavy Metal Wound reduction. See `equipment/terran/FIRE-RESISTANT-INSULATION-DRAFT.md`.
+
+## Additional Terran infantry catalog — licensed 2000 Alternity source (2026-10-10)
+- [x] Audit the **user-supplied *Alternity Adventure Game: StarCraft Edition*** boxed-set image scan, register `SC-ALT2000-BOX` as **P4 licensed derivative**, and separate Blizzard's original C-10 corroboration from RPG-only C-7/CMC-405 material.
+- [x] Draft a **Terran small-arms matrix** including C-7 Stinger pistol, standard/civilian arms, shotguns and squad machine guns, retaining the previously accepted C-14.
+- [x] Draft **specialist ordnance**, including Blizzard-confirmed C-10 (25mm from licensed Alt), generic Class II anti-materiel penetrator, published Class III/IV rockets and breaching equipment.
+- [x] Draft **field-medic support** with Med-Scanner/Gel, optional CMC-405 analogue, Brood War A-13 flash prototype and shield alternative; keep UED suit model **unresolved**.
+- [x] Draft **field engineering/scouting/demolition** with detectors, comms, repair, cutting tools, placed charges and Ghost cloaking variant; no free SCV full stat block yet.
+- [ ] After Zerg & Protoss comparative baselines, choose **Medic suit/shield default, Stimpack drug effects**, Ghost Lockdown mechanics, explosive/flash scaling and other currently marked **draft modules**; no isolated balance gate needed.
+- [ ] Construct ground Zerg organism playtest group and Protoss infantry/shield/psionic equivalents, then run integrated scenarios/regression tests.
