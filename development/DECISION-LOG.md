@@ -25,6 +25,8 @@ A dated record of *project decisions*, not a declaration that every potential me
 
 | DEC-017 | 2026-10-10 | **Approved provisional frame redesign** | **CMC-660 Firebat and 5-4 Marauder use Size 3 Power Armor frames** (base +12 Heavy Armor, 9 Mod slots, Pace 4, Strength d12+2); retain provisional **Firebat +14 Heavy/Class II** (one Armor Mod) and **Marauder +16 Heavy/Class II** (two Armor Mods). Twin installed weapon mounts must consume their actual Mod budget. Earlier Size 2 layouts remain historical test alternatives. | User-approved size choice; SFC Power Armor Frames p.122 and vehicular weapons p.120; `equipment/terran/CMC-POWER-ARMOR-DRAFT.md`; `development/benchmarks/POWER-ARMOR-FRAME-SIZING-STUDY.md`. No change to fixed-Class/Soak decisions or final item-stat status. |
 
+| DEC-018 | 2026-10-10 | **Owner-selected provisional Firebat equipment Mod** | Use **Fire-Resistant Insulation (Heat)**, **1 Mod slot**, borrowing SWADE Core **Environmental Resistance (Heat)**: **+4 heat/fire hazard resistance and −4 ordinary rolled heat/fire damage**. No automatic subtraction from direct Heavy Metal Wounds. Provisional for integrated packet, not finalized separate Pinnacle RAW. | Owner said the one-slot heat resistance approach works; `equipment/terran/FIRE-RESISTANT-INSULATION-DRAFT.md`; Core p.18 / Core pp.160–161; SFC p.123. |
+
 ## Outstanding decisions
 - Campaign time period and which factions/species are initially player-accessible.
 - Shields: preferred existing mechanics and recharge behavior.

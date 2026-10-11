@@ -57,7 +57,9 @@ Do **not** stop development at each plausible weapon or suit to demand a standal
 
 - [x] Distinguish in-lore kinetic-foam shock absorption from drug-based **Trauma Pack**; research a Soak-compatible custom Kinetic Foam Mod while preserving existing Toughness/Ballistic Protection RAW options. See `development/benchmarks/MARAUDER-KINETIC-FOAM-STUDY.md`.
 - [x] **Approve Kinetic Foam Mod**: 1 slot, +2 to Vigor Soak against physical kinetic/concussive Wounds, normal Benny and Heavy Metal interface; `equipment/terran/KINETIC-FOAM-MODIFICATION.md`.
-- [ ] Finalize Firebat thermal defense and Marauder K12 mount/hardpoint Mods as part of the broader equipment packet.
+- [x] Select **provisional Firebat Fire-Resistant Insulation** via Core Environmental Resistance (Heat): 1 Mod, +4 hazard checks, −4 rolled fire damage, no direct Heavy Metal Wound reduction.
+- [x] Create **paired first-pass Perdition / Quad K12 Heavy Weapon playtest profiles**, including linked mounts, ammo and SFC p.93 Armor Piercing warhead mechanics; `equipment/terran/PERDITION-FLAMETHROWERS-PLAYTEST.md` and `QUAD-K12-PUNISHER-PLAYTEST.md`.
+- [ ] Finalize Firebat thermal/weapon fuel variants, Marauder K12 Concussive Shell wording and ammo-fabrication/storage Mods **during integrated packet build**, not as isolated tuning gates.
 
 - [x] **Owner approves Size 3 for Firebat CMC-660 and Marauder 5-4** with current +14/+16 Heavy/Class II provisional protection unchanged; update suit Pace/Strength and nine-slot budgets. See `development/benchmarks/POWER-ARMOR-FRAME-SIZING-STUDY.md`.
 - [ ] Review **Fire-Resistant Insulation**, the 1-Mod **draft** based on Core Environmental Resistance (Heat): +4 to resist heat/fire hazards, −4 conventional fire damage, no automatic direct Heavy Metal Wound reduction. See `equipment/terran/FIRE-RESISTANT-INSULATION-DRAFT.md`.
