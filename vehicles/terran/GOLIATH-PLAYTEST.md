@@ -1,0 +1,17 @@
+# Terran Goliath — One-Pilot Dual-Role Combat Walker (first vehicle conversion)
+
+**Status:** `playtest` candidate, 2026-10-11, based on a **published stock SFC Infantry Support Walker**, not a literal Blizzard tonnage claim.  
+**Blizzard primary:** https://classic.battle.net/scc/terran/ugl.shtml establishes a **single-pilot combat walker**, **twin 20mm anti-armor autocannons** and **Hellfire missiles for anti-air**. The 20mm size is in published technical text; DPS, missile damage, RPG targeting ranges are not canonical values.  
+**Closest mechanical source:** SFC **Infantry Support Walker**, printed **p.187**, provides **Size4 Large**, **Strength d12+4**, **Handling0**, **Top Speed9**, **Toughness21(6), ClassII**, **4 Wounds** and an existing **dual-linked light autocannon/anti-air light missile** battery. This matches the design unusually well.
+
+## Prototype chassis (SFC stock analog)
+**Goliath walker:** **Size4 Large**, **Handling0**, **Top Speed9**, **Toughness21 (6)**, **Vehicle Class II**, **4 vehicle Wounds**, **Strength d12+4**, **Crew1**, **Arms/Walker locomotion**. SFC prototype speed may be high for Goliath; if operating in tactical ground combat use appropriate walker movement/chase conversion. StarCraft visual size is not certified to be exactly 12ft from SWADE Size4.
+
+## Weapon sets
+- **Twin 20mm cannons:** **Two linked SFC Light Autocannons**, printed **p.58** (**50/100/200, 3d8/AP4, RoF4, Heavy Weapon ClassI**, Point Defense and Reaction Fire where appropriate), **linked+1 Shooting/+2 rolled damage**, **does not change Class**. 20mm caliber is Blizzard; RPG damage/range is from an SFC *light* gun and does not automatically become ClassII because lore says "anti-armor." The SFC **Medium Autocannon is Min Size8**, so directly mounting it on a Size4 Goliath would violate the **published minimum Size requirement**. Dedicated upgraded Goliath variant could use a more powerful/custom small-form-factor weapon with explicit cost/size exception later.
+- **Hellfire AA launchers:** Use paired SFC **Light Missile Launcher** with **Light Guided Missiles** p.62, **Range100/200/400, 6d6/AP16 Heavy Weapon ClassIII**, **SBT**, **RoF4** as allowed by actually stocked missiles. **Anti-air targeting only** is a loadout/targeting configuration, not a free penalty against all ground targets; don't infer extra missile storage from the game supply.
+- **Weapon sequencing:** Pilot/weapon operator needs a valid Shooting/Electronics action based on weapon type and guided missile rules. **Do not give one pilot both full RoF4 cannon and RoF4 rockets as free simultaneous actions**.
+
+**RPG tradeoff:** Goliath ClassII is more vulnerable than the heavy ClassIV tank; its cannons are anti-infantry/antilight ClassI and guided missiles threaten genuinely hard armored targets. This is a provisional one-person walker, not an operator wearing power armor, so **vehicle Wounds, Critical Hits and operational damage** apply.
+
+**Future:** Compare alternative bigger Size5/6 chassis if lore suggests 15–20ft Goliath. Original Lore one-man pilot, but no measured physical Size here.
