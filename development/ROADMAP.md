@@ -58,3 +58,5 @@ Do **not** stop development at each plausible weapon or suit to demand a standal
 - [x] Distinguish in-lore kinetic-foam shock absorption from drug-based **Trauma Pack**; research a Soak-compatible custom Kinetic Foam Mod while preserving existing Toughness/Ballistic Protection RAW options. See `development/benchmarks/MARAUDER-KINETIC-FOAM-STUDY.md`.
 - [x] **Approve Kinetic Foam Mod**: 1 slot, +2 to Vigor Soak against physical kinetic/concussive Wounds, normal Benny and Heavy Metal interface; `equipment/terran/KINETIC-FOAM-MODIFICATION.md`.
 - [ ] Finalize Firebat thermal defense and Marauder K12 mount/hardpoint Mods as part of the broader equipment packet.
+
+- [ ] Review **Size 3 vs Size 2** for twin integral Firebat/Marauder weapons and remaining specialist Mods; Size 3 is a researched preferred candidate but **not yet owner-approved**. See `development/benchmarks/POWER-ARMOR-FRAME-SIZING-STUDY.md`.
