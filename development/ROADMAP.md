@@ -72,4 +72,11 @@ Do **not** stop development at each plausible weapon or suit to demand a standal
 - [x] Draft **field-medic support** with Med-Scanner/Gel, optional CMC-405 analogue, Brood War A-13 flash prototype and shield alternative; keep UED suit model **unresolved**.
 - [x] Draft **field engineering/scouting/demolition** with detectors, comms, repair, cutting tools, placed charges and Ghost cloaking variant; no free SCV full stat block yet.
 - [ ] After Zerg & Protoss comparative baselines, choose **Medic suit/shield default, Stimpack drug effects**, Ghost Lockdown mechanics, explosive/flash scaling and other currently marked **draft modules**; no isolated balance gate needed.
-- [ ] Construct ground Zerg organism playtest group and Protoss infantry/shield/psionic equivalents, then run integrated scenarios/regression tests.
+- [x] Complete broad **shape-first Zerg ground creature study**, including **Core, Fantasy, Horror, Science Fiction, Super Powers, Vehicle Guide and World Builder** cross-source review. Generate provisional Zergling, Hydralisk, Roach, Baneling, Lurker and Ultralisk profiles, plus creep hazards and a cross-equipment test matrix, indexed in `bestiary/zerg/README.md`.
+- [ ] Construct **Protoss** personal force-field/shield, zealot/ranged psionic ground counterparts, a vehicle scale target and five PCs; **then** run integrated scenarios/regression tests.
+
+## Ground Zerg baseline: shape-first / unexpected-Companion research (2026-10-11)
+- [x] Anchor morphology and SWADE Size in Dire Wolf, Fantasy Velociraptor/Giant Scorpion/T-Rex/War Elephant, and SFC Death Worm/Throxian/Decapitator before importing extraordinary traits.
+- [x] Search all seven supplied printed systems (Core, four Companions, Vehicle Guide, World Builder) for **Hive Mind, Pack Tactics, organic projectiles, Heavy Armor bio-creatures, Regeneration, burrowed cover, parasite swarms, acid, self-detonation, spore visibility and environmental/encounter hazards**. Document both suitable and rejected applications.
+- [x] Deliver **six provisional Zerg stat blocks**, creep/hazard procedures and a **Heavy Metal/CMC comparison matrix**. Explicitly distinguish normal natural Armor versus **Ultralisk-only draft Class III** and **Zergling Class I offensive scythes**.
+- [ ] Return to **Protoss ground combat and personal force field/shield mechanics** for first 3-faction complete reference; later creature tuning runs in combined packet, not now.
