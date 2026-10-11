@@ -14,12 +14,12 @@
 | **Roach acid** 2d8/AP4 HW Class I | Marine Class I | **1d3 Wounds** (+raise), but burrowed healing/effective range affect encounter | Acid AP is original conversion choice; test damage and regeneration together |
 | **Baneling blast** 4d8/AP4 HW Class II | Marine I / Firebat II | **I: 1d3+1** Wounds; **II: 1d3**, before Soak, with explosion-area/Evasion handling | Does expendable lethal blast annihilate too many characters? |
 | **Lurker line** 3d10/AP4 HW Class II | Marine I / Firebat II | **I: 1d3+1**, **II: 1d3** per independently hit target before Soak | Can scanners, cover, flanking and explosions counter line attacks? |
-| **Ultralisk armor** Heavy +8, fixed Class III | C-14 I / ClassII antimat / ClassIII rocket | **C-14 I: No Effect; ClassII: normally 0 or 1 on attack raise; ClassIII: 1d3**, before Soak | Living tank must create urgency for actual anti-armor equipment without invulnerability to all factions |
+| **Ultralisk armor corrected** Heavy +10, T26, derived Class III | C-14 I / ClassII antimat / ClassIII rocket | **C-14 I: No Effect; ClassII: normally 0 or 1 on attack raise; ClassIII: 1d3**, before Soak | Living tank must create urgency for actual anti-armor equipment without invulnerability to all factions |
 | **Ultralisk Kaiser Blade** Str+d10/AP12 HW III | Marine I / Marauder II / Tank III | **I: 1d3+2; II: 1d3+1; III: 1d3**, before Soak | Huge Scale, reach, Sweep and multiple Wounds are terrifying; tanks need plausible counters |
 | **Firebat linked Perdition** 3d12+2, HW I, Cone | Zergling/Hydra/Roach ordinary Armor | **Ordinary rolled fire damage** against their normal Toughness; incendiary rules; Area/Evasion | Burning biological swarms is formidable; don't treat fire as universally negated by natural Armor |
-| **Marauder K12 AP** ClassI special warhead | Ultralisk ClassIII | ClassIII target→II if Armor10+; **Ultralisk has Armor +8**, so **this reduction does NOT trigger**. With ClassI vs III: **No Effect** | The Punisher K12 does not automatically pierce the thickest exceptional bioarmor; viability of specialist rockets |
+| **Marauder K12 AP** ClassI special warhead | Ultralisk ClassIII | **Ultralisk now Armor +10**, so AP lowers target ClassIII→II. ClassI K12 deals **0 ordinary Wounds, 1 on attack raise** | The Punisher K12 does not automatically pierce the thickest exceptional bioarmor; viability of specialist rockets |
 
-**Crucial Armor+10 gate:** SFC AP-warhead special class reduction only triggers at target's **listed Armor 10+**, **not** at Toughness 24 or creature Size 8. Our Ultralisk's **+8 Heavy Armor** is **below that threshold**, so K12 Punisher AP as drafted doesn't change Class. If this is unintended, test **Ultralisk +10 Armor and proportionately higher Toughness (26)** as a specific variant, or use an anti-tank rocket. **Do not quietly reinterpret the threshold.**
+**Crucial Armor+10 gate (corrected 2026-10-11):** SFC AP-warhead p.93 lowers target Class by one only when its **Armor is at least +10**, not due to creature Size or total Toughness alone. With the current **unapproved Ultralisk T26(10 Heavy Armor) / ClassIII**, K12 Punisher AP lowers target III→II but K12 ClassI still inflicts **0 Wounds on ordinary hit, 1 on raise**. The former 24(8)/III pairing was inconsistent and is now preserved only in the dated conversion history. See `BIOLOGICAL-VEHICLE-SCALE-STUDY.md`.
 
 **Natural Defense scope:** A creature can wield a HW attack while its **own skin is ordinary Armor**; the Heavy Metal Class belongs to the attack, not inherited automatically by the bearer.
 
@@ -38,7 +38,7 @@
 1. Zergling HW ClassI versus Marine ClassI *could be over-lethal* combined with standard Gang Up; do not fix this in isolation.
 2. Baneling ClassII self-explosion and multi-target blast are potentially deadly; look for player counterplay.
 3. Roach Resilient + conditional Fast Regen might create an unkillable underground enemy; ensure battle exit and scanner interaction.
-4. Ultralisk ClassIII is a **new creature-specific equipment-scale mapping** without a general approved biological class doctrine. Owner review required after comparison with Protoss and vehicles.
+4. Ultralisk ClassIII with corrected T26 is a **creature-specific Heavy Armor choice, using published p.93 Class mathematics** without a general approved biological class doctrine. Owner review required after comparison with Protoss and vehicles.
 5. Validate Lurker custom line geometry and AP/ClassII significance against a fortified Marine response.
 
 **Next project gate:** Add Protoss personal shields/psionics, a representative armored vehicle, and 5-PC sample squad before describing these as tested. 

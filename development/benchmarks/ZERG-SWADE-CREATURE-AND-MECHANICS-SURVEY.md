@@ -98,3 +98,6 @@
 - `../../bestiary/zerg/README.md`
 
 **Do not declare rules approved** without user review. "Playtest" denotes an auditable playable proposal awaiting full integrated testing, not a completed session.
+
+## Biological scale review and Heavy Metal correction (2026-10-11)
+The *Vehicle Guide* p.21 expressly supports using vehicle Toughness/Size to **calibrate monster stats**, but not automatically turning monsters into mechanical vehicles. SFC biological Heavy Armor examples **Deep Space Worm** p.242 T26(6) and **Throxian Bombard** p.288 T29(6) have ClassIII-level Toughness. Prior Ultralisk **T24(8)/fixed III** was inconsistent with SFC p.93 (ClassII at T24); current *provisional* Ultralisk uses **Size8/d12+8/T26(10 Heavy Armor)/derived ClassIII** and ordinary Huge creature Wounds. K12 special AP now triggers the Armor10+ threshold, but causes only 0 ordinary/1 on raise. Research: [Biological Vehicle Study](BIOLOGICAL-VEHICLE-SCALE-STUDY.md).

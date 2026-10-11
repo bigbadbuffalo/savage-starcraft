@@ -40,3 +40,6 @@
 7. **Heavy biological threat:** Protoss unit plus antimat/rocket vs Ultralisk III; test whether Zealots do too little while ClassII Stalker support contributes.
 
 **Follow-up decision:** Owner selects Zealot chassis option (ordinary battlegear vs SFC Light Duty power armor) and shield model (SFC Personal Force Field +4 vs rechargeable charged shield). All other stats remain provisional until integrated test; do not demand final approval of every profile to move to vehicle and PC packets.
+
+## Revised Ultralisk class (2026-10-11)
+The current unapproved biological vehicle-calibrated Ultralisk **T26(10 Heavy Armor), ClassIII** corrects an older T24(8)/ClassIII mathematical mismatch. **K12 Punisher AP** now lowers target class III→II at **Armor10+**, resulting in ClassI K12 **0 Wounds normally/1 on raise**. This does not automatically grant the Ultralisk **five vehicle Wounds**: it still uses ordinary Huge creature rules and may be contrasted with an optional *vehicle-resolved boss form* separately. Study: `BIOLOGICAL-VEHICLE-SCALE-STUDY.md`.

@@ -88,3 +88,9 @@ Do **not** stop development at each plausible weapon or suit to demand a standal
 - [x] Discover SFC **p.122 Light Duty** power armor as plausible **full powered Zealot suit without Heavy Armor**; Size1/5 Mods / +8 ordinary Armor / Pace12 / Strength d12, with p.124 Strength Mod costing **2 slots** for the d12+1 higher-output blade configuration. Keep as explicit option versus +6 ordinary armor custom Strength overlay.
 - [x] Draft **Class II enhanced psi blade** (not the stock SFC ClassI Psi Blade), Adept ClassI glaive, Stalker ClassII particle disruptor, and High Templar Storm/Hallucination/Deflection using existing Psionics powers; original conversions flagged.
 - [ ] Select shield default and physical Zealot frame **after comparing current candidates**, and cost robotic Sentry/Teleport/charged emitter systems in full PC/vehicle construction. No new default shield rules approved yet.
+
+## Vehicle Guide's monsters-as-vehicles and ground anchors (2026-10-11)
+- [x] Verify *Vehicle Guide* p.21 **monster construction using vehicle Toughness/size**, Core p.179 Size/Strength, SFC p.93 Class, and SFC stock walkers/biological Heavy Armor. Record [study](benchmarks/BIOLOGICAL-VEHICLE-SCALE-STUDY.md).
+- [x] Fix prior unapproved **Ultralisk 24(8)/ClassIII** class inconsistency: current test body **Size8 Str d12+8 T26(10 Heavy Armor)/derived ClassIII**, with ordinary Huge creature wound capacity. Investigate an optional five-Wound biological walker-style boss, but **do not silently adopt universal biological vehicles**.
+- [x] Draft first actual vehicle anchors **Vulture ClassI, Goliath walker ClassII, Siege Tank ClassIV**, from published SFC stock vehicle analogues; document official Blizzard unit mechanics versus RPG numerical estimates.
+- [ ] Explore living Overlord/Nydus transports and full biological vehicle damage interface if justified; finalize Protoss Dragoon/Immortal walker and PC/encounter packet.
