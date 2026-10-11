@@ -17,6 +17,9 @@ Use existing SWADE/Sci-Fi Companion equipment where possible. Adopted values mus
 - [Quad K12 Punisher](terran/QUAD-K12-PUNISHER-PLAYTEST.md) — **playtest** linked launchers, **custom K12-only AP warhead compatibility**, and concussive ammunition.
 - [Quad K12 interchangeable ammunition](terran/K12-AMMUNITION-PLAYTEST.md) — published compatible grenade types plus StarCraft-specific Punisher/Concussive variants and Time-vs-Sloth distinction.
 - [Heavy Metal firefight test and escalation weapons](../development/benchmarks/HEAVY-METAL-INFANTRY-FIRE-TEST.md) — 300,000 simulated actions per case (not an actual game session).
+- [Protoss personal shield comparisons](protoss/SHIELD-SYSTEMS-PLAYTEST.md) — SFC p.42 +4 Toughness Force Field versus rechargeable SFC p.123 charged-Soak Shields; not yet a final selection.
+- [Protoss psi-weapons](protoss/PSI-WEAPONS-PLAYTEST.md) — stock Psi Blade Class I vs custom enhanced Class II Zealot/void blades, Adept, Stalker, Sentry and Dragoon placeholder.
+- [Zealot powered-frame study](../development/benchmarks/PROTOSS-SUIT-CHASSIS-COMPARISON.md) — the published SFC **Light Duty** Power Armor Mod creates a non-Heavy powered suit; not yet adopted.
 - [Terran small-arms & squad weapons](terran/TERRAN-SMALL-ARMS-PLAYTEST.md) — C-7 Stinger (licensed-RPG lead), civilian/security guns, shotguns, conventional rifles, LMG/HMG.
 - [Terran specialist/anti-armor weapons](terran/TERRAN-SPECIALIST-ORDNANCE-PLAYTEST.md) — Ghost C-10, Class II antimateriel rifle, Class III/IV rockets, specialist cutting weapons.
 - [Medic and medical support](terran/TERRAN-MEDICAL-SUPPORT-PLAYTEST.md) — UED medical primary-lore checks, light suit/shield options, A-13 optic flare, Med-Gel and Med-Scanner, stim deferred.
