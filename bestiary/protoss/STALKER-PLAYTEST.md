@@ -1,0 +1,18 @@
+# Stalker — Fast Armored Protoss War Platform
+
+**Status:** `playtest` tentative mechanical/scale conversion (2026-10-11), not final approved physical Mass, Shield mechanic or Class.  
+**Source:** Blizzard [Stalker/Dragoon developer history](https://news.blizzard.com/en-gb/article/21509420/evolution-complete-reimagining-classic-starcraft-units-for-starcraft-ii) clearly distinguishes four-legged Dragoon and faster smaller **Blink** Stalker technology; Blizzard [Stalker design](https://news.blizzard.com/en-us/article/20975163/starcraft-ii-multiplayer-major-design-changes) highlights **particle-disruptor anti-armor ranged** role. A Stalker is **a four-legged mechanical war platform, not a humanoid wearing standard CMC-equivalent armor**. The exact nature of its operator/embedded Nerazim spirit needs fuller official technical verification; don't make unverified statements about all examples.
+
+**Stalker (Construct Extra, Size2 Normal Scale)**  
+**Attributes:** Agility **d8**, Smarts **d6**, Spirit **d8**, Strength **d12+1**, Vigor **d10**.  
+**Skills:** Athletics **d8**, Fighting **d6**, Notice **d8**, Shooting **d8**, Stealth **d8**, Electronics **d8**.  
+**Pace8; Parry5; Toughness 17 (8 Heavy Armor)** *without added shield Toughness*. Calculation: Vigor d10 base7 + Size2 +2 + Armor8 =17. **Proposed fixed Class II biological-vehicle-grade exoskeleton**; **not user-approved** and not ordinary Size2 power-armor frame stats.
+
+**Abilities and modules**
+- **Mechanized Body:** Core **Construct** traits, p.176: +2 recover Shaken, ignore 1 Wound penalty, no eating/breathing, immune disease/poison, Repair not Healing. No vehicle Out-of-Control; creature/Construct Wounds and Extra treatment unless final walker architecture says otherwise. Ordinary called-shot / robotics restrictions apply.
+- **Heavy Armor +8 (Class II candidate):** classed armored quadrupedal body. Weapon Class I C-14 generally cannot Wound this Heavy Armor without a Shooting raise, per current project's Class difference; damage remains possible with competent dedicated Class II anti-materiel/Marauder AP.
+- **Particle Disruptor:** **24/48/96; 2d12/AP8, Heavy Weapon, Class II, RoF1**, using Shooting; **entire RPG line is our conversion**, not StarCraft ballistics. Can target flyers within normal visibility/Scale/Range limitations.
+- **Plasma Shield option B recommended for this test:** **two rechargeable Electronics-based shield Soak charges** borrowed from SFC p.123 power-armor **Shields**, **not** standard printed p.42 Personal Force Field. This is explicitly a **custom standalone/robot conversion**; it actually matters when incoming attacks use Heavy Metal direct Wounds. If instead using candidate A, +4 Toughness affects **ordinary rolled damage only**, and grants no advantage against direct Class Wounds. **Never simultaneously grant A+B by default.**
+- **Blink:** Experimental fitting modeled by **Core Teleport p.170** (Seasoned, 2 PP, Arcane skill or genuinely powered device, 12\" /24yd, double on raise). This is a **paid/specialized action/resource**, not a free teleport every attack. The fully engineered device/PP recovery/activation skill remain unresolved; default Stalker can shoot and run without Blink if an encounter has no source for power.
+
+**Contrast:** A Stalker is *not* a Zealot with a rifle. It has mechanical Construct resilience, heavy armor and ranged precision, but may have fewer individual innate mental talents. A revealed Stalker should be targetable by anti-armor ordnance. A wounded one may teleport away only using a separately identified operative Blink system.
