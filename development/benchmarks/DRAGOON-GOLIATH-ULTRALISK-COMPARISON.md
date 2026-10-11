@@ -60,3 +60,6 @@
 - Dragoon's disintegration **range/AP/energy supply** is custom extrapolation from a *Medium Cannon*; Blizzard text does not give SWADE die metrics or shot budgets.
 - Whether Goliath's Hellfire anti-air guidance supports ground targeting; no free guided anti-Ultralisk shots without selecting that mode.
 - Creature **Gigantic/Size** not converted from RTS "Large" unit tag; exact heights/tonnages for these three remain **unverified**.
+
+## Dragoon armament terminology (1998 source correction)
+Blizzard's **original StarCraft manual Protoss unit entry, printed p.80**, names the weapon **Phase Disruptor**; its prose explains *anti-particle bolts sheathed in psychic fields*. Our provisional **4d10/AP10/ClassIII** is a **Phase Disruptor numerical proxy**, not a canon firearm caliber, and has **nothing automatically to do with the SFC Phase warhead modifier (+1 Weapon Class)**. A dedicated later warhead upgrade should not be added merely because both share the word 'phase'. Source: https://ftp.blizzard.com/pub/misc/StarCraft.PDF and original Dragoon official unit page.
