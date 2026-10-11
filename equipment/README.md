@@ -12,6 +12,7 @@ Use existing SWADE/Sci-Fi Companion equipment where possible. Adopted values mus
 - [C-14 Impaler gauss rifle](terran/C14-IMPALER-DRAFT.md) — full provisional test line and mechanics.
 - [CMC powered infantry suit family](terran/CMC-POWER-ARMOR-DRAFT.md) — standard/heavy armor hierarchy and Mod allocation.
 - [Kinetic Foam Power Armor Mod](terran/KINETIC-FOAM-MODIFICATION.md) — **approved** one-slot custom Mod providing +2 Soak against qualifying physical impacts.
+- [Fire-Resistant Insulation Mod](terran/FIRE-RESISTANT-INSULATION-DRAFT.md) — **draft**, using Core Environmental Resistance (Heat) as the direct mechanical precedent for Firebat insulation.
 - [Heavy Metal firefight test and escalation weapons](../development/benchmarks/HEAVY-METAL-INFANTRY-FIRE-TEST.md) — 300,000 simulated actions per case (not an actual game session).
 
 **Policy:** Build a complete playable equipment ecology, including standard weapons, anti-armor responses, medics/technicians, psionic/shield counterparts, alien natural weapons and representative heavy targets, **before** tuning individual numerical entries. See [integrated playtest packet](../development/INTEGRATED-PLAYTEST-PACKET.md). Current C-14 values are intentionally **not** a new universal damage standard for every faction or organism.

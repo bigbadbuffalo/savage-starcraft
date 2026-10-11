@@ -59,4 +59,5 @@ Do **not** stop development at each plausible weapon or suit to demand a standal
 - [x] **Approve Kinetic Foam Mod**: 1 slot, +2 to Vigor Soak against physical kinetic/concussive Wounds, normal Benny and Heavy Metal interface; `equipment/terran/KINETIC-FOAM-MODIFICATION.md`.
 - [ ] Finalize Firebat thermal defense and Marauder K12 mount/hardpoint Mods as part of the broader equipment packet.
 
-- [ ] Review **Size 3 vs Size 2** for twin integral Firebat/Marauder weapons and remaining specialist Mods; Size 3 is a researched preferred candidate but **not yet owner-approved**. See `development/benchmarks/POWER-ARMOR-FRAME-SIZING-STUDY.md`.
+- [x] **Owner approves Size 3 for Firebat CMC-660 and Marauder 5-4** with current +14/+16 Heavy/Class II provisional protection unchanged; update suit Pace/Strength and nine-slot budgets. See `development/benchmarks/POWER-ARMOR-FRAME-SIZING-STUDY.md`.
+- [ ] Review **Fire-Resistant Insulation**, the 1-Mod **draft** based on Core Environmental Resistance (Heat): +4 to resist heat/fire hazards, −4 conventional fire damage, no automatic direct Heavy Metal Wound reduction. See `equipment/terran/FIRE-RESISTANT-INSULATION-DRAFT.md`.

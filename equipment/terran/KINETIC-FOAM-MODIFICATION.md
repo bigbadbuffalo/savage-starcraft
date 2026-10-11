@@ -18,7 +18,7 @@ The bonus **does not apply** to fire or heat, energy beams, electrical effects, 
 
 ## Equipment and scope
 - **One** Mod slot on any compatible powered armor suit. This is a portable equipment rule, **not** an Edge, class feature, or general bonus for all Marauders.
-- The fictional basis is the **Marauder Kinetic Foam upgrade**, **not proof that every 5-4 suit in every era carries it by default**. The working basic Marauder profile is still **+16 Heavy Armor, fixed Class II**. The **foam-equipped Marauder variant** uses **Armor ×3 (3 slots) + Kinetic Foam (1 slot) = 4/6 slots** before K12 attachments and other Mods.
+- The fictional basis is the **Marauder Kinetic Foam upgrade**, **not proof that every 5-4 suit in every era carries it by default**. The working basic Marauder profile is still **+16 Heavy Armor, fixed Class II**. The **foam-equipped Marauder variant now uses an approved Size 3 chassis**: **Armor ×2 (2 slots) + Kinetic Foam (1 slot) = 3/9 slots** before K12 attachments and other Mods; with two provisional 1-Mod K12 mounts this would be **5/9 slots**. The previously researched Size 2/4-of-6 budget is historical, not current.
 - **Trauma Pack is not included** merely because a stock SFC Assault Suit uses one; pharmaceuticals are not equivalent to impact-damping foam.
 - Published **Toughness +1** and **Ballistic Protection** remain separate optional Mods, with their normal slot costs. Neither automatically duplicates this Soak effect under Heavy Metal.
 - The +2 is a bonus to an ordinary Soak roll, so it follows the rules' usual treatment of modifiers; **no free roll, second Soak track, blanket Wound reduction or special stacking exception** is introduced.

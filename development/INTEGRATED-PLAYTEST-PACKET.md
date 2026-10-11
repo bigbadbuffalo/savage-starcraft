@@ -44,3 +44,6 @@ A complete Protoss PC ancestry, every Ghost ability, all Reaper models, all Zerg
 
 ## Kinetic Foam approval (2026-10-10)
 The project owner approved a **single-slot +2 Vigor Soak bonus against kinetic/concussive impacts** as a custom Power Armor Mod, in `../equipment/terran/KINETIC-FOAM-MODIFICATION.md`. This is a finalized rule choice for the provisional packet (no free Soak or Armor/Class change), **not an assertion that all Marauders carry it**. Add at least one foam-equipped Marauder to eventual integrated tests, alongside an unmodified baseline, and leave the rest of the equipment program moving.
+
+## Size 3 heavy-suit chassis and proposed heat Mod (2026-10-10)
+**Firebat CMC-660 and Marauder 5-4 now use owner-approved Size 3 frames** (nine Mod slots, Pace 4, Strength d12+2), retaining the previously accepted provisional +14/Class II and +16/Class II protective lines. Integrated twin flame/launcher mounts must be budgeted when stats are written; both families retain room for upgrades. The Firebat's **Fire-Resistant Insulation** Mod is **draft only**, inspired by Core Environmental Resistance (Heat), and no subtract-four-from-Heavy-Metal-Wounds rule is adopted. See `../equipment/terran/CMC-POWER-ARMOR-DRAFT.md` and `../equipment/terran/FIRE-RESISTANT-INSULATION-DRAFT.md`.

@@ -49,3 +49,6 @@
 3. **Approved:** **Kinetic Foam, 1 Mod, +2 to conditional physical-impact Vigor Soak**. It uses normal Benny costs and does not modify Heavy Metal Class. See the current rule at `../../equipment/terran/KINETIC-FOAM-MODIFICATION.md`. A historical +1 alternative is retained for potential later balance diagnostics.
 4. Keep **Toughness +1** and **Ballistic Protection** available as separate *published* Mods: they make excellent variant options, but neither by itself does what the lore says against Class-based powered infantry attacks.
 5. The bespoke **Mod has been explicitly approved**, but does **not** alter the approved core Soak or Heavy Metal interaction rules. Costs and integrated-combat balance remain open.
+
+## Subsequent frame selection (2026-10-10)
+**Size 3 is now approved** for the Marauder's current provisional equipment chassis: base +12 Armor, **two Armor Mods to +16**, **nine Mod slots**, and the optional approved **one-slot Kinetic Foam**. This updates the earlier Size 2/6-Mod illustrative budget above; see `../../equipment/terran/CMC-POWER-ARMOR-DRAFT.md`. The Kinetic Foam bonus itself has **not changed**.

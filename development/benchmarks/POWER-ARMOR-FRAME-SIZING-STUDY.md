@@ -1,7 +1,7 @@
 # CMC-660 Firebat and Marauder 5-4 — Size 2 versus Size 3 Chassis Review
 
 **Date:** 2026-10-10  
-**Status:** **Size 3 is the preferred research/development option**, **not yet an owner-approved chassis substitution**; the already accepted +14/Class II Firebat and +16/Class II Marauder protection figures remain unchanged. No weapon/mount budget has yet been locked.
+**Status:** **Size 3 is owner-approved for both CMC-660 Firebat and 5-4 Marauder** (2026-10-10). The existing provisional +14/Class II Firebat and +16/Class II Marauder protection numbers remain unchanged. Weapon/hardpoint profiles still need to be specified.
 **Question:** Arm-integrated twin Perdition flamethrowers and arm-mounted Quad K12 Punisher launchers need capacity for weapons, fuel/ammunition and specialized protective systems. Is SFC Size 3 a better *frame* than Size 2?
 
 ## What the published Science Fiction Companion actually says
@@ -62,4 +62,4 @@ The Marauder's grenade assembly's **internal barrel count**, autonomous reloadin
 
 **Not forced by RAW:** The published Size 2 Assault Suit already carries a grenade launcher, and p.60 Min Size 1 weapons fit a Size 2 chassis. **Size 2 remains viable** if the models intentionally sacrifice customization for compactness, limited weapons or no expensive manufacturing/extra defense. We should not enlarge suits solely to skirt a hard 10-lb limit on `Integrated Gear`—using the published vehicular weapon mounting rules is an independent and more direct solution.
 
-**No repo equipment baseline overwritten yet:** Owner acceptance covered **+14/+16 Class II** and the prior Size 2 starting draft. Size 3 is **a studied proposed frame change** requiring explicit adoption, not a hidden decision. Once chosen, update the CMC playtest family profile and the real Mod cost of the final Perdition and K12 entries, rather than inventing free hardpoints.
+**Owner decision (2026-10-10):** **Adopt Size 3 on the current provisional CMC-660 and 5-4 suit equipment entries**. The updated CMC gear table now uses one Armor Mod for +14 Firebat, two Armor Mods for +16 Marauder, and nine total slots each. The illustrative twin weapon mounts remain estimates until actual Perdition/K12 weapon construction. Firebat fire resistance remains a **draft** proposal using Core Environmental Resistance (Heat); see `../../equipment/terran/FIRE-RESISTANT-INSULATION-DRAFT.md`. Preserve prior Size 2 budgets as historical comparisons only.
