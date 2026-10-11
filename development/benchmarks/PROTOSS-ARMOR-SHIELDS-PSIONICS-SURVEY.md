@@ -59,3 +59,6 @@
 - `../../rules/PROTOSS-PSIONIC-PROGRESSION-DRAFT.md`
 - `../../equipment/protoss/PSI-WEAPONS-PLAYTEST.md`
 - `../../bestiary/protoss/README.md`
+
+## Subsequent native walker shields discovery (2026-10-11)
+**SFC p.185 has a dedicated Walker Shields Modification**, in addition to p.123 power-armor Shields and p.42 personal Force Field. For an actual **Size4, four-Wound Dragoon walker**, published Walker Shields cost **2 Mods** and provide **2 automatically spent Electronics-based Soak charges**, recharged outside battle over 10 minutes. Therefore **walker Dragoon plasma shields require no detached-device homebrew**, though exact Protoss recharge flavor and the pilot's Electronics/psionic interface remain design choices. This *does not* settle the Zealot's physical suit/shield or the Stalker's disputed **Size2 (power armor range) versus Size4+ walker** mechanical frame. Details: [Dragoon profile](../../vehicles/protoss/DRAGOON-WALKER-PLAYTEST.md); [three-way study](DRAGOON-GOLIATH-ULTRALISK-COMPARISON.md).

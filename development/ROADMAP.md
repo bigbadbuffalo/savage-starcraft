@@ -94,3 +94,10 @@ Do **not** stop development at each plausible weapon or suit to demand a standal
 - [x] Fix prior unapproved **Ultralisk 24(8)/ClassIII** class inconsistency: current test body **Size8 Str d12+8 T26(10 Heavy Armor)/derived ClassIII**, with ordinary Huge creature wound capacity. Investigate an optional five-Wound biological walker-style boss, but **do not silently adopt universal biological vehicles**.
 - [x] Draft first actual vehicle anchors **Vulture ClassI, Goliath walker ClassII, Siege Tank ClassIV**, from published SFC stock vehicle analogues; document official Blizzard unit mechanics versus RPG numerical estimates.
 - [ ] Explore living Overlord/Nydus transports and full biological vehicle damage interface if justified; finalize Protoss Dragoon/Immortal walker and PC/encounter packet.
+
+## Three-faction mechanical walker & transport comparison (2026-10-11)
+- [x] Draft **true Dragoon Size4/ClassII walker**, including unique surviving Protoss pilot, quad frame, **SFC p.185 native walker Shields** (2 Mods/2 charges), **original ClassIII charged antiparticle projectile** using SFC medium cannon damage as a calibration, with complete **12/12 Mods**.
+- [x] Analyze **Dragoon/Goliath/Ultralisk** damage/status under SFC Heavy Metal; note **Goliath autocannons only ClassI** and its **Hellfire missiles are primarily anti-air in Blizzard lore**, so dual-use ground targeting requires distinct permission.
+- [x] Research **Overlord Ventral Sacs cargo** and **SC1 Nydus Canal vs SC2 Nydus Worm** as living transportation infrastructure; selective vehicle logistics a better fit than giving all giant beasts mechanical vehicle Wounds.
+- [ ] Confirm any real Protoss disintegration energy mechanics beyond projectile description, operator psi-interface, and source-proven body masses before final numbers; **Stalker vehicle status remains separate choice**.
+- [ ] Prepare human-sized PC/warrior loadouts and actually run recorded cross-faction encounter tests before signing off first roster. No changes to current approved fixed-class power armor policy.

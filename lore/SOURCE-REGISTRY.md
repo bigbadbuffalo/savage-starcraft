@@ -42,3 +42,11 @@ Register new sources here; document specific factual claims in lore entries or d
 
 ## Internal rules references (not StarCraft canon)
 SWADE Core Rules (2023 fifth printing); Science Fiction Companion (2024); World Builder & Game Master's Guide (2019); SWADE Vehicle Guide (2020); supplementary SWADE Companions. The user has supplied reference PDFs for consultation, but their complete copyrighted contents are **not** committed to this public repository.
+
+## New linked vehicle/transport checks — 2026-10-11
+- **SC98-BNET-PROTOSS/DRAGOON** https://classic.battle.net/scc/protoss/units/dragoon.shtml : P1, wounded veteran embedded in quadrupedal exoskeleton; psychically sheathed anti-particle bolts; ranged anti-air and anti-ground and Zealot support. **Direct** Lore, not literal RTS damage/Size or 20-point attack.
+- **SC98-BNET-TERRAN-VEHICLES/GOLIATH** https://classic.battle.net/scc/terran/ugl.shtml : P1 one-man walker with twin **20mm anti-armor** autocannons and **Hellfire anti-air missiles**; no explicit general ground-target missile authorization.
+- **SC98-BNET-ZERG/ULTRALISK** https://classic.battle.net/scc/zerg/units/ultralisk.shtml : P1 living heavy assault with monomolecular blades and enormous physicality; original unit gameplay transport claims not SWADE physical capacity.
+- **SC98-BNET-ZERG/OVERLORD** https://classic.battle.net/scc/zerg/units/overlord.shtml : P1 floating breeder/sensor/control; **Ventral Sacs evolution** for transporting, SC1 RTS cargo slot list is NOT certified masses.
+- **SC98-BNET-ZERG/NYDUS** https://classic.battle.net/scc/zerg/astrat.shtml : P1 original **paired fixed Nydus Canal** links on creep. Contrast separate SC2 **emerging Nydus Worm** mechanics: https://news.blizzard.com/en-gb/article/22372713/starcraft-ii-balance-revamp-2018 ; https://news.blizzard.com/en-us/article/23227811/starcraft-ii-4-11-0-patch-notes . Timing/health values from patches are not lore physics.
+- **SWADE rule distinction:** SFC printed **p.185 Walker Shields**, p.123 **Power Armor Shields**, and p.42 **Personal Force Field** are separate published items with different charge rules. The attached walker shield is already **RAW**, so don't describe it as a custom adaptation of the personal item.
