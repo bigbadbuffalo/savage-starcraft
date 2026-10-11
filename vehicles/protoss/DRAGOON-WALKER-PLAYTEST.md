@@ -1,0 +1,38 @@
+# Protoss Dragoon — First Mechanized Warrior Profile
+
+**Date:** 2026-10-11. **Status:** `playtest` and **not owner-approved numerical stats**. A **true walker** in a life-support exoskeleton, **not** a Zealot wearing a Terran CMC suit.  
+**P1 lore:** [Blizzard original Dragoon](https://classic.battle.net/scc/protoss/units/dragoon.shtml): crippled or mortally wounded veteran **transplanted into** quadrupedal mechanical walking shell, controls it like his body; **anti-particle disintegration bolts wrapped in a psychically charged field**, ranged ground/air support, protects Zealots. Tactical guide also notes strong against Ultralisks, Siege Tanks and air targets, but the attack bonus against RTS "Large" is not a measured penetration figure.  
+**Published construction:** *SFC* printed **p.182** Large Walker Frame (Size4, basic Toughness **15**, Strength **d12+4**, 4 Wounds, 12 Mods, Handling0, Top Speed Rating8), **p.185** walker **Shields Mod**, **p.186** Quadruped and Stabilizer, **p.59** Medium Cannon, **p.93** Heavy Metal. Stock **Infantry Support Walker**, **p.187**, is a close mechanical reference to the Goliath.
+
+## Prototype frame — full Mod accounting
+
+| Profile element | Value / fitted subsystem | Mods |
+| --- | --- | ---: |
+| SFC **Size4 Large Walker Frame** | **Size4**, Handling **0**, Speed Rating **8** (base), 4 **vehicle Wounds**, Strength **d12+4**, **base Toughness15**, Crew **1 embedded Protoss** | frame 12 |
+| Heavy Armor plating | **Armor +6**, giving **Toughness21(6)**, **ClassII** derived from total Toughness | **3× Armor = 3** |
+| Quad walking limbs | **Quadruped** (SFC p.186; reroll failed Piloting checks against Out of Control) | **2** |
+| **Plasma shield generator** | Published **Walker Shields** p.185: **2 charges** (half the walker's 4 base Wounds, round down), mandatory **Electronics Soak** sequence on Wounds, **10min** out-of-combat recharge, emergency power shunt as printed | **2** |
+| **Disintegration projector** | **CUSTOM energy trapping of Medium Cannon benchmark:** **75/150/300; 4d10/AP10; RoF1; Heavy Weapon/ClassIII** (average 22+10=32), **direct fire at ground or air** | **3** |
+| **Stabilizer** | Published walker Mod to ignore Unstable Platform/running penalties for attached direct fire | **1** |
+| **Enhanced optics/scanner** | Walker **Scanner** p.184, biological/optical tactical imaging, not free invisible-target detection | **1** |
+| **Total** | **12/12 installed; 0 left** | **12** |
+
+**Critical weapon honesty:** The SFC **Medium Cannon** (p.59) has these *exact* range/damage/AP/Class values but fires **munition shells**, not psychic antiparticles. The Dragoon energy projector is therefore a **Savage StarCraft conversion using its numerical role, not an unaltered printed cannon**. The inherited printed cannon's 60 Shots are *not automatically* a finite antiparticle magazine. For encounter logistics, assume the projector is connected to the walker's power plant; **track ordinary walker Energy and operational damage**, not literally 60 bullets. A dedicated capacitor ammunition/overheat cost may be tested later, and no extra independent Mod-free system is implied by the energy trapping. The listed 3 weapon Mods reserve the full SFC cannon-sized hardware/power budget. A lower-powered alternative is the published **Light Particle Cannon** p.63 (100/200/400, 4d6+4/AP5, ClassII, RoF3, Min Size2/2 Mods), but its burst-heavy behavior and reduced anti-Ultralisk lethality less closely fit original Dragoon fiction.
+
+**System eligibility:** The printed walker **Shields** Modification p.185 is for walkers; this is **not** the personal SFC p.42 Force Field (+4 Toughness) nor the p.123 **Power Armor** Shields Mod. Do not stack all three. The fixed prototype's 2 charges follow the **walker Wounds rule**, *not Size4 or TMG shield values*. On Wounds, the Dragoon's operator must spend Electronics-based free-action shield Soak attempts until the Wounds are negated or charges exhausted; the pilot's **Electronics skill** governs the test. **A Psionics-substituted interface** would be an unapproved alternate tech rule, not ordinary SFC RAW. Avoid claiming shield Soak changes hull Class or Toughness.
+
+## Piloting and personal identity
+- Wounded warrior's body/mind survives in a life-support shell: **humanlike Protoss cognition, Spirit and psionic identity**, but the **chassis is a vehicle** for targeting, Wounds and system criticals. No automatic "Construct biological immunity" for the injured pilot.
+- The embedded operator ordinarily uses **Piloting** for walker movement, **Shooting** for disintegration projector, **Electronics** for Shields; use the printed **p.181** walker **Fighting = lower of Piloting or Fighting**, **Parry 2 + half Piloting + Handling**, and Out of Control/fall/leg Critical rules. If a specific psy-link permits using Psionics as Piloting, that is **extra design work**, not assumed here.
+- **Sample embedded veteran skills (NPC only):** Piloting **d10**, Shooting **d10**, Electronics **d8**, Fighting **d8**, Notice **d8**. Walker Parry with Piloting d10/Handling0 **7**; melee walker attacks use the lower of Piloting d10 and Fighting d8 = **d8**. These dice are **provisional operator competencies**, not mandatory species attributes.
+- **Crew damage / rescue:** Give shell appropriately modified crew compartment and life support; target pilot injuries through actual **Crew Critical Hits**, case-specific maneuvers or a defeated walker. A ruined mechanical hull does not automatically mean its trapped living pilot was surgically unaffected, and its pilot cannot simply step out fighting as an ordinary full-health Zealot. An ejection/biomedical extraction procedure is a later campaign-support decision.
+
+## Cross-weapon impact under SFC Heavy Metal
+- Dragoon **ClassIII disintegration** vs **Goliath ClassII**: **1d3+1 Wounds** on qualifying hit (+1 on raise), then normal *vehicle* damage/critical rules.
+- Dragoon III vs **Ultralisk ClassIII**: **1d3 Wounds** (+1 raise), followed by *creature* Soak and Huge-size Wound capacity. Unlike the Goliath autocannon, this is meaningful anti-Ultralisk fire without missiles.
+- Dragoon III vs **Arclite ClassIV**: **0 Wounds normally, 1 on attack raise**, which is weaker than the StarCraft RTS unit-size bonus might suggest but consistent with a dedicated tank.
+- Goliath **Light Autocannon ClassI** vs Dragoon II: **0 Wounds normally/1 on raise**; **Hellfire missile ClassIII** vs Dragoon II: **1d3+1 Wounds** (shield soaks applicable Wounds if charges remain).
+- Ultralisk **Kaiser Blades ClassIII** vs Dragoon II: **1d3+1 Wounds** on hit if it reaches the walker; the Dragoon has **SFC walker vehicle Wounds**, the Ultralisk uses **creature Wounds**. Quadruped stabilizes *Out of Control checks*, not immunity to being shoved or broken.
+- The Goliath's linked light autocannon damage bonus **does not promote Weapon Class** under SFC p.93, nor does the Dragoon receive extra Class for an operator's innate psionic level.
+
+**Design boundary:** This working Dragoon mirrors the Goliath's **Size4/T21(6)/ClassII/4 vehicle Wounds** to isolate tactical role, shield and firepower. That is an analytic control, **not proof the two species built equally thick plating**. More robust T23/25 or larger Dragoon variants may eventually be justified by source dimensions or playtesting. A primary Protoss unit can have genuine powered *vehicle* armor while the project's **Zealot armor** is still undecided.

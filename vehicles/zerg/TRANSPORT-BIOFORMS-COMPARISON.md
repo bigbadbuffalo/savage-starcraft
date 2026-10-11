@@ -1,0 +1,38 @@
+# Overlord Transport vs Nydus Canal/Worm — Living Logistics, Not Simply Big Monsters
+
+**Date:** 2026-10-11. **Status:** `research/draft` comparative application of vehicle-scale rules; **not finalized stat blocks** or a universal biological-vehicle subsystem.  
+**Blizzard sources:** [Overlord original guide](https://classic.battle.net/scc/zerg/units/overlord.shtml), [original Nydus Canal account](https://classic.battle.net/scc/zerg/astrat.shtml), original [Transport guide](https://classic.battle.net/scc/gs/trans.shtml), [SC2 Game Guide Transports](https://news.blizzard.com/en-us/article/4546771/game-guide-transports), [SC2 Nydus balance / emergence](https://news.blizzard.com/en-gb/article/22372713/starcraft-ii-balance-revamp-2018). Do not merge SC1 Nydus Canal structure, SC2 emerging Nydus Worm and a hypothetical permanent underground biological animal into one identity.
+
+## P1-supported reality
+- **Overlord**: floating **biological brood-command, sensory and transport** organism with protective shell. In original SC, **Ventral Sacs evolution is required for hauling** ground units, even though the organism commands/senses without it. It **can fly and detect buried/cloaked enemies**; its unescorted transport vulnerability is a tactical fact. SC1 transport slots list e.g. 8 Zerglings, 4 Hydralisks, 2 Ultralisks; **these are RTS cargo capacities, not engineering tonnages/volumes** and should **not** force a Size8 RPG Overlord physically to carry two Size8 Ultralisks.
+- **Nydus Canal, SC1**: **paired rooted biological transit network/structures** between suitable creep-connected locations, high-speed passage; **not a roaming armored tank**. Entrance/exit health, cargo access, breach/closing, scan and placement make better RPG encounters than locomotion/Top Speed/vehicle chase rules.
+- **Nydus Worm, SC2**: a **separate emerged attack route / living exit** connecting troops via an underground network. Official SC2 changes remove invulnerability during its surfacing and adjust armor/appearance and unload delays; the exact in-world growth/time/throughput are *not* reliably derived from multiplayer patch timings.
+
+## Which rules to use?
+| Form | Primary tactical function | Better default rules | When full Vehicle procedures become useful |
+| --- | --- | --- | --- |
+| **Command Overlord (not cargo-equipped)** | Psychic control, sight/detection, floating mobility | **Large/Huge creature** with Notice, senses, Flight, vulnerable organs, organic Wounds and Soak | A very large campaign boss or transport variant later |
+| **Ventral Sac Transport Overlord** | **Carry, protect and deploy passengers** while flying | **Biological flying transport module using vehicle Cargo/boarding/drop rules**, creature body Wounds unless GM deliberately builds full hull variant | If the whole scenario centers on **passenger survival, bombardment and Wrecked/Evacuation procedures**, use one **vehicle Wound track and organic criticals**, not stacked creature and vehicle tracks |
+| **SC1 Nydus Canal entrance/exit** | Fixed **portal/terrain infrastructure** | **Destructible object / objective/hazard, route endpoints, growth limits and control security**, not a moving vehicle | If a campaign models living tunnel interior sections as moving/hazardous locations |
+| **SC2 Nydus Worm emergence** | **Vulnerable insertion/extraction point** | **Burrowing organism/structure + tunnel access objective**; temporary surfacing, detectable emergence and destroying its mouth creates route failure | Huge mobile tunneler with **passengers physically carried within body** may need full bio-vehicle hull and organic criticals |
+| **Leviathan/starship bioform** | Planetary or space operations, enclosed chambers, weapons and internal crew-like brood ecosystem | **Full living starship / Vehicle** rules with biological analogues for systems | Main strong positive case; scale/crew/damage already starship-level |
+
+## Minimal immediate encounter-ready modules (not new universal rules)
+
+### Transport Overlord — route-level module
+- **Ventral Sacs** are an **optional evolutionary cargo configuration**, not default for every Overlord. Treat the organism as a living air transport **for passenger positioning, loading/unloading, cargo risks and escape**. Preserve independent supernatural detection/command behavior using **Notice/brood link**, not Electronics as automatic biological sensor.
+- For an initial room-scale encounter choose **one squad of medium Zerg or a pack of Zerglings**, capacity intentionally **GM-controlled by physical fictional plausibility**. **Do not automatically enforce the SC1 8-unit slots as SWADE physical mass rules**, though the RTS list is helpful for relative transport priorities.
+- A loaded Overlord downed by direct fire creates an **urgent passenger survival/escape** test like a downed Dropship; assign falling or crushing damage by actual height, landing surface, and Core falling/collision rules. Do **not** assume swallowed Zerg instantly die nor that they automatically survive unchanged.
+- Operational tradeoff: a fully loaded transport generally has worse maneuverability than a scouting Overlord; if adopting full vehicle dynamics, impose a **costed Handling or Speed effect based on cargo mass** rather than an arbitrary blank penalty.
+
+### Nydus Canal / Nydus Worm — scene asset
+- **Initial / exit nodes** must be founded, revealed or grown in a fictionally possible location; the original description requires creep for the SC1 *sister* exit. **SC2 emerging Nydus Worm exits have different creep/placement rules**; do not incorrectly require creep under all SC2 exits.
+- During **emergence**, treat the worm as a targetable, vulnerable **structure/large creature** that can be detected and destroyed; the StarCraft II designers intentionally allowed counterfire during emergence. Do not grant **invulnerability until all troops emerge**, nor literal SC2 patch seconds as SWADE rounds.
+- **Transport network** is a **scenario-scale relocation route**; don't make it infinite teleportation to any coordinate. Define linked entry/exit, infiltration/scouting, biological growth limitations and choke capacity. Units traverse a physical network in the fiction even if RTS travel appears instantaneous.
+- **Closure/blockage**: A successful demolition, fire attack, collapse, or destruction of a mouth can stop new troops. For troops already en route, decide whether the tunnel remains passable to other nodes, causes a Dramatic Task escape, or leaves trapped survivors; this is a **scenario-specific adjudication**, not a universal automatic death rule.
+
+## Biological critical system if ever using full vehicles
+**Design module not approved:** replace mechanical `Locomotion` with **torn wing/fin or severed tendons**; replace `System` with **injured sensory/cargo organ, brood-control center or blocked sphincter**; replace `Crew` with **compartment/passenger injury** (not a cockpit), and `Wrecked` with **bleeding/collapse/gasping and passenger egress**. Repair → **Healing/Science/biological regeneration**, time appropriate to creature anatomy. No artificial vehicle operator/Piloting check on an Overlord flying instinctively. This requires complete eligibility/Soak interface before formal adoption.
+
+## Result
+**The three-way Dragoon–Goliath–Ultralisk comparison does NOT require vehicle rules for every giant organism**. Full or partial vehicle **transport/logistics** subsystems are most valuable for loaded Overlords and Nydus networks, and full **starship** combat is expected for Leviathans. Vehicle Guide p.21 **monster construction** remains valid without replacing all creature damage rules.
