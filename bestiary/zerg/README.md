@@ -6,7 +6,7 @@
 
 | Organism | Size / Scale | Role | Defenses | Distinctive feature |
 | --- | --- | --- | --- | --- |
-| [Zergling](ZERGLING-PLAYTEST.md) | **0** Normal | Fast pack Extra | **Toughness 8(2)**; ordinary Armor | Gang Up plus *Pack Tactics* Fighting-damage bonus |
+| [Zergling](ZERGLING-PLAYTEST.md) | **0** Normal | Fast pack Extra | **Toughness 8(2)**; ordinary Armor | **Class I natural Heavy Weapon scythes**; Gang Up plus *Pack Tactics* rolled damage |
 | [Hydralisk](HYDRALISK-PLAYTEST.md) | **3** Normal | Spine-launching armored Extra | **14(4)**; ordinary Armor | **2d8/AP4/Heavy Weapon Class I** natural ranged spines |
 | [Roach](ROACH-PLAYTEST.md) | **2** Normal | Armored acid skirmisher | **13(4)**; ordinary Armor; Resilient | Bioacid and **burrow-dependent Regeneration** |
 | [Baneling](BANELING-PLAYTEST.md) | **0** Normal | One-use acid explosive | **7(1)**; ordinary Armor | **MBT, 4d8/AP4 Class II** self-detonation, one use |
