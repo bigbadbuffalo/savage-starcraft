@@ -27,6 +27,8 @@ A dated record of *project decisions*, not a declaration that every potential me
 
 | DEC-018 | 2026-10-10 | **Owner-selected provisional Firebat equipment Mod** | Use **Fire-Resistant Insulation (Heat)**, **1 Mod slot**, borrowing SWADE Core **Environmental Resistance (Heat)**: **+4 heat/fire hazard resistance and −4 ordinary rolled heat/fire damage**. No automatic subtraction from direct Heavy Metal Wounds. Provisional for integrated packet, not finalized separate Pinnacle RAW. | Owner said the one-slot heat resistance approach works; `equipment/terran/FIRE-RESISTANT-INSULATION-DRAFT.md`; Core p.18 / Core pp.160–161; SFC p.123. |
 
+| DEC-019 | 2026-10-10 | **Approved provisional equipment direction / rules correction** | **Quad K12** supports multiple **interchangeable grenade payloads** rather than a single locked ammunition type; use SFC p.60 compatible HE, incendiary, smoke, EMP, stun and appropriately rare phase/plasma/time choices, plus a distinct **Sloth-inspired Concussive Shell** with *half movement* effect for integrated playtesting. The latter does **not** automatically impose Distracted/Vulnerable like the SFC Time warhead. **Audit correction:** p.60's launcher-specific warhead list **excludes Armor Piercing**. The K12 Punisher's p.48/p.93 AP effect is an **explicit K12-only StarCraft homebrew compatibility exception**, not generic published launcher RAW. | Owner supports flexible ammo/Sloth approach, **not final individual warhead costs or balance**. `equipment/terran/K12-AMMUNITION-PLAYTEST.md`, SFC pp.48,60,93, Core p.167. |
+
 ## Outstanding decisions
 - Campaign time period and which factions/species are initially player-accessible.
 - Shields: preferred existing mechanics and recharge behavior.

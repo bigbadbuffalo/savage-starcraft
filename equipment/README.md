@@ -14,7 +14,8 @@ Use existing SWADE/Sci-Fi Companion equipment where possible. Adopted values mus
 - [Kinetic Foam Power Armor Mod](terran/KINETIC-FOAM-MODIFICATION.md) — **approved** one-slot custom Mod providing +2 Soak against qualifying physical impacts.
 - [Fire-Resistant Insulation Mod](terran/FIRE-RESISTANT-INSULATION-DRAFT.md) — **provisionally selected** for Firebat (one Mod, Core Environmental Resistance Heat precedent; not finalized).
 - [Twin Perdition Flamethrowers](terran/PERDITION-FLAMETHROWERS-PLAYTEST.md) — **playtest** linked heavy flames, area attacks and Heavy Metal comparisons.
-- [Quad K12 Punisher](terran/QUAD-K12-PUNISHER-PLAYTEST.md) — **playtest** linked launchers, AP warhead rules and optional concussive ammunition.
+- [Quad K12 Punisher](terran/QUAD-K12-PUNISHER-PLAYTEST.md) — **playtest** linked launchers, **custom K12-only AP warhead compatibility**, and concussive ammunition.
+- [Quad K12 interchangeable ammunition](terran/K12-AMMUNITION-PLAYTEST.md) — published compatible grenade types plus StarCraft-specific Punisher/Concussive variants and Time-vs-Sloth distinction.
 - [Heavy Metal firefight test and escalation weapons](../development/benchmarks/HEAVY-METAL-INFANTRY-FIRE-TEST.md) — 300,000 simulated actions per case (not an actual game session).
 
 **Policy:** Build a complete playable equipment ecology, including standard weapons, anti-armor responses, medics/technicians, psionic/shield counterparts, alien natural weapons and representative heavy targets, **before** tuning individual numerical entries. See [integrated playtest packet](../development/INTEGRATED-PLAYTEST-PACKET.md). Current C-14 values are intentionally **not** a new universal damage standard for every faction or organism.
